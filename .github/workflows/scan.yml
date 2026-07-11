@@ -26,6 +26,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MIN_24H_VOLUME: ${{ secrets.MIN_24H_VOLUME }}
         run: python run_once.py
 
       - name: Commit updated state
