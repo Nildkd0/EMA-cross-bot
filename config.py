@@ -51,8 +51,6 @@ class Config:
             missing.append("TELEGRAM_BOT_TOKEN")
         if not self.TELEGRAM_CHAT_ID:
             missing.append("TELEGRAM_CHAT_ID")
-        if not self.MIN_24H_VOLUME:
-            missing.append("MIN_24H_VOLUME")
         if missing:
             raise RuntimeError(
                 f"Missing required environment variables: {', '.join(missing)}. "
