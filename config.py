@@ -26,7 +26,7 @@ class Config:
 
     # Delta Exchange
     DELTA_BASE_URL = os.getenv("DELTA_BASE_URL", "https://api.india.delta.exchange")
-    CONTRACT_TYPES = _get_list("CONTRACT_TYPES", "perpetual_futures,futures")
+    CONTRACT_TYPES = _get_list("CONTRACT_TYPES", "perpetual_futures")
 
     # Scanning
     MIN_24H_VOLUME = float(os.getenv("MIN_24H_VOLUME", "1000000"))
