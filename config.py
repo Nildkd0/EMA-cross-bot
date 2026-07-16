@@ -30,11 +30,11 @@ class Config:
 
     # Scanning
     MIN_24H_VOLUME = float(os.getenv("MIN_24H_VOLUME", "1000000"))
-    TIMEFRAMES = _get_list("TIMEFRAMES", "5m,15m,1h")
+    TIMEFRAMES = _get_list("TIMEFRAMES", "15m,1h")
     EMA_FAST = int(os.getenv("EMA_FAST", "8"))
     EMA_SLOW = int(os.getenv("EMA_SLOW", "20"))
-    ANTI_SPAM_CANDLES = int(os.getenv("ANTI_SPAM_CANDLES", "3"))
-    CANDLE_LOOKBACK = int(os.getenv("CANDLE_LOOKBACK", "50"))
+    ANTI_SPAM_CANDLES = int(os.getenv("ANTI_SPAM_CANDLES", "2"))
+    CANDLE_LOOKBACK = int(os.getenv("CANDLE_LOOKBACK", "100"))
     SUMMARY_INTERVAL_MINUTES = int(os.getenv("SUMMARY_INTERVAL_MINUTES", "60"))
 
     # Symbols containing any of these keywords (case-insensitive substring match,
