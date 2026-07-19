@@ -1229,7 +1229,7 @@
     "AAPLXUSD|15m": 1784339100,
     "AAPLXUSD|1h": 1784336400,
     "AAPLXUSD|5m": 1784035500,
-    "AAVEUSD|15m": 1784460600,
+    "AAVEUSD|15m": 1784461500,
     "AAVEUSD|1h": 1784458800,
     "AAVEUSD|5m": 1784202600,
     "ACTUSD|15m": 1783863900,
@@ -1292,8 +1292,8 @@
     "BLURUSD|15m": 1783998900,
     "BLURUSD|1h": 1783994400,
     "BLURUSD|5m": 1783999800,
-    "BNBUSD|15m": 1784460600,
-    "BNBUSD|1h": 1784455200,
+    "BNBUSD|15m": 1784461500,
+    "BNBUSD|1h": 1784458800,
     "BNBUSD|5m": 1784202900,
     "BTCUSD|15m": 1784461500,
     "BTCUSD|1h": 1784458800,
@@ -1358,7 +1358,7 @@
     "KITEUSD|15m": 1784106900,
     "KITEUSD|1h": 1784102400,
     "KITEUSD|5m": 1784107500,
-    "LABUSD|15m": 1784460600,
+    "LABUSD|15m": 1784461500,
     "LABUSD|1h": 1784458800,
     "LABUSD|5m": 1784202900,
     "LDOUSD|15m": 1784288700,
@@ -1399,8 +1399,8 @@
     "MUBUSD|15m": 1784392200,
     "MUBUSD|1h": 1784386800,
     "MUBUSD|5m": 1784202900,
-    "MUSD|15m": 1784460600,
-    "MUSD|1h": 1784455200,
+    "MUSD|15m": 1784461500,
+    "MUSD|1h": 1784458800,
     "MUSD|5m": 1784202900,
     "NBISBUSD|15m": 1784382300,
     "NBISBUSD|1h": 1784379600,
@@ -1413,8 +1413,8 @@
     "NVDAXUSD|15m": 1784359800,
     "NVDAXUSD|1h": 1784354400,
     "NVDAXUSD|5m": 1784142000,
-    "ONDOUSD|15m": 1784460600,
-    "ONDOUSD|1h": 1784455200,
+    "ONDOUSD|15m": 1784461500,
+    "ONDOUSD|1h": 1784458800,
     "ONDOUSD|5m": 1784202900,
     "OPNUSD|15m": 1783836000,
     "OPNUSD|1h": 1783832400,
@@ -1473,8 +1473,8 @@
     "SKYAIUSD|15m": 1784421900,
     "SKYAIUSD|1h": 1784419200,
     "SKYAIUSD|5m": 1783999800,
-    "SLVONUSD|15m": 1784460600,
-    "SLVONUSD|1h": 1784455200,
+    "SLVONUSD|15m": 1784461500,
+    "SLVONUSD|1h": 1784458800,
     "SLVONUSD|5m": 1784202900,
     "SNDKBUSD|15m": 1784461500,
     "SNDKBUSD|1h": 1784458800,
@@ -2712,9 +2712,9 @@
   },
   "range_state": {
     "AAVEUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 90.39,
+      "in_range": true,
+      "low": 89.38
     },
     "AAVEUSD|1h": {
       "high": null,
@@ -2802,9 +2802,9 @@
       "low": null
     },
     "MUSD|1h": {
-      "high": 1.2515,
-      "in_range": true,
-      "low": 1.2319
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "ONDOUSD|15m": {
       "high": 0.3559,
