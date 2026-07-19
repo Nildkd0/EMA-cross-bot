@@ -1,0 +1,159 @@
+"""
+Renders a dark-themed candlestick chart (last N candles) with EMA overlays
+and an arrow marking the signal candle. Saves to a PNG and returns the path.
+"""
+import os
+import uuid
+
+import matplotlib
+matplotlib.use("Agg")  # headless
+import matplotlib.pyplot as plt
+import mplfinance as mpf
+import pandas as pd
+
+CHART_DIR = os.path.join(os.path.dirname(__file__), "charts")
+os.makedirs(CHART_DIR, exist_ok=True)
+
+_dark_style = mpf.make_mpf_style(
+    base_mpf_style="nightclouds",
+    marketcolors=mpf.make_marketcolors(
+        up="#26a69a", down="#ef5350", edge="inherit", wick="inherit", volume="inherit"
+    ),
+    facecolor="#131722",
+    edgecolor="#131722",
+    figcolor="#131722",
+    gridcolor="#2a2e39",
+    gridstyle="--",
+    rc={"axes.labelcolor": "#d1d4dc", "xtick.color": "#d1d4dc", "ytick.color": "#d1d4dc"},
+)
+
+
+def render_signal_chart(
+    df: pd.DataFrame,
+    symbol: str,
+    timeframe: str,
+    ema_col: str,
+    ema_period: int,
+    signal_direction: str,
+    vwap_col: str = None,
+) -> str:
+    """
+    df must already have the EMA column and a datetime index.
+    The signal candle is assumed to be the second-to-last row (last closed candle).
+    If vwap_col is given and present in df with at least one non-NaN value in
+    the plotted window, a daily VWAP line is added too (breaks at the daily
+    reset — matplotlib naturally skips NaN gaps in a line plot).
+    Returns the filepath of the saved PNG.
+    """
+    plot_df = df.tail(50).copy()
+
+    addplots = [
+        mpf.make_addplot(plot_df[ema_col], color="#42a5f5", width=1.3),
+    ]
+
+    if vwap_col and vwap_col in plot_df.columns and plot_df[vwap_col].notna().any():
+        addplots.append(
+            mpf.make_addplot(plot_df[vwap_col], color="#ab47bc", width=1.4)
+        )
+
+    signal_idx = len(plot_df) - 2  # last closed candle within the plotted window
+    signal_idx = max(0, min(signal_idx, len(plot_df) - 1))
+    marker_series = pd.Series(index=plot_df.index, dtype=float)
+    signal_price = plot_df.iloc[signal_idx]["close"]
+    offset = plot_df["high"].max() * 0.01
+    marker_series.iloc[signal_idx] = signal_price + (offset if signal_direction == "up" else -offset)
+    marker_color = "#26a69a" if signal_direction == "up" else "#ef5350"
+    marker_symbol = "^" if signal_direction == "up" else "v"
+    addplots.append(
+        mpf.make_addplot(
+            marker_series, type="scatter", markersize=140, marker=marker_symbol, color=marker_color
+        )
+    )
+
+    title = (
+        f"{symbol}  |  {timeframe}  |  EMA{ema_period} cross "
+        f"{'UP' if signal_direction == 'up' else 'DOWN'}"
+    )
+
+    filename = f"{symbol}_{timeframe}_{uuid.uuid4().hex[:8]}.png"
+    filepath = os.path.join(CHART_DIR, filename)
+
+    fig, axes = mpf.plot(
+        plot_df,
+        type="candle",
+        style=_dark_style,
+        addplot=addplots,
+        volume=True,
+        title=title,
+        returnfig=True,
+        figsize=(10, 6),
+        tight_layout=True,
+    )
+    fig.savefig(filepath, dpi=140, facecolor=fig.get_facecolor())
+    plt.close(fig)
+    return filepath
+
+
+def render_range_chart(
+    df: pd.DataFrame,
+    symbol: str,
+    timeframe: str,
+    range_high: float,
+    range_low: float,
+    label: str,
+    direction: str = None,
+) -> str:
+    """
+    Renders candles with two horizontal lines marking a range's high/low —
+    used for both the ORB strategy (label like "Asia ORB") and the general
+    range strategy (label "Range"). If `direction` ("up"/"down") is given,
+    also marks the breakout candle with an arrow; otherwise this is just
+    the "range formed" snapshot.
+    Returns the filepath of the saved PNG.
+    """
+    plot_df = df.tail(50).copy()
+    addplots = []
+
+    if direction is not None:
+        signal_idx = len(plot_df) - 2
+        signal_idx = max(0, min(signal_idx, len(plot_df) - 1))
+        marker_series = pd.Series(index=plot_df.index, dtype=float)
+        signal_price = plot_df.iloc[signal_idx]["close"]
+        offset = plot_df["high"].max() * 0.01
+        marker_series.iloc[signal_idx] = signal_price + (offset if direction == "up" else -offset)
+        marker_color = "#26a69a" if direction == "up" else "#ef5350"
+        marker_symbol = "^" if direction == "up" else "v"
+        addplots.append(
+            mpf.make_addplot(
+                marker_series, type="scatter", markersize=140, marker=marker_symbol, color=marker_color
+            )
+        )
+
+    title = f"{symbol}  |  {timeframe}  |  {label} "
+    title += f"breakout {'UP' if direction == 'up' else 'DOWN'}" if direction else "range formed"
+
+    filename = f"{symbol}_{timeframe}_{label.replace(' ', '')}_{uuid.uuid4().hex[:8]}.png"
+    filepath = os.path.join(CHART_DIR, filename)
+
+    plot_kwargs = dict(
+        type="candle",
+        style=_dark_style,
+        volume=True,
+        title=title,
+        returnfig=True,
+        figsize=(10, 6),
+        tight_layout=True,
+        hlines=dict(
+            hlines=[range_high, range_low],
+            colors=["#ffa726", "#42a5f5"],
+            linestyle="-.",
+            linewidths=1.3,
+        ),
+    )
+    if addplots:
+        plot_kwargs["addplot"] = addplots
+
+    fig, axes = mpf.plot(plot_df, **plot_kwargs)
+    fig.savefig(filepath, dpi=140, facecolor=fig.get_facecolor())
+    plt.close(fig)
+    return filepath
