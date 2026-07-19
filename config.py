@@ -68,7 +68,7 @@ class Config:
     # (high-low)/low). EMA cross alerts go quiet for that symbol+timeframe
     # while it's ranging; a close outside the established band fires a
     # breakout alert and EMA alerts resume as normal afterward.
-    RANGE_LOOKBACK_CANDLES = _get_int("RANGE_LOOKBACK_CANDLES", "10")
+    RANGE_LOOKBACK_CANDLES = _get_int("RANGE_LOOKBACK_CANDLES", "12")
     RANGE_WIDTH_PCT = _get_float("RANGE_WIDTH_PCT", "1.5")
 
     # Symbols containing any of these keywords (case-insensitive substring match,
