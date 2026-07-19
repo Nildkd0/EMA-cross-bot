@@ -1406,7 +1406,7 @@
     "NVDAXUSD|15m": 1784359800,
     "NVDAXUSD|1h": 1784354400,
     "NVDAXUSD|5m": 1784142000,
-    "ONDOUSD|15m": 1784450700,
+    "ONDOUSD|15m": 1784451600,
     "ONDOUSD|1h": 1784448000,
     "ONDOUSD|5m": 1784202900,
     "OPNUSD|15m": 1783836000,
@@ -1442,7 +1442,7 @@
     "RAVEUSD|15m": 1784375100,
     "RAVEUSD|1h": 1784372400,
     "RAVEUSD|5m": 1784202900,
-    "RIVERUSD|15m": 1784450700,
+    "RIVERUSD|15m": 1784451600,
     "RIVERUSD|1h": 1784448000,
     "RIVERUSD|5m": 1784202900,
     "RSRUSD|15m": 1783989000,
@@ -1466,7 +1466,7 @@
     "SKYAIUSD|15m": 1784421900,
     "SKYAIUSD|1h": 1784419200,
     "SKYAIUSD|5m": 1783999800,
-    "SLVONUSD|15m": 1784450700,
+    "SLVONUSD|15m": 1784451600,
     "SLVONUSD|1h": 1784448000,
     "SLVONUSD|5m": 1784202900,
     "SNDKBUSD|15m": 1784451600,
@@ -2801,9 +2801,9 @@
       "low": 4002.7
     },
     "RIVERUSD|15m": {
-      "high": 3.367,
-      "in_range": true,
-      "low": 3.323
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "SKYAIUSD|15m": {
       "high": null,
