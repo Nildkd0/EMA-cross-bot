@@ -31,6 +31,11 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           MIN_24H_VOLUME: ${{ secrets.MIN_24H_VOLUME }}
+          TELEGRAM_THREAD_EMA_SUMMARY: ${{ secrets.TELEGRAM_THREAD_EMA_SUMMARY }}
+          TELEGRAM_THREAD_RANGE_FORMING: ${{ secrets.TELEGRAM_THREAD_RANGE_FORMING }}
+          TELEGRAM_THREAD_RANGE_BREAKOUT: ${{ secrets.TELEGRAM_THREAD_RANGE_BREAKOUT }}
+          TELEGRAM_THREAD_ORB_FORMING: ${{ secrets.TELEGRAM_THREAD_ORB_FORMING }}
+          TELEGRAM_THREAD_ORB_BREAKOUT: ${{ secrets.TELEGRAM_THREAD_ORB_BREAKOUT }}
         run: python run_once.py
 
       - name: Commit updated state
