@@ -69,7 +69,7 @@ class Config:
     # while it's ranging; a close outside the established band fires a
     # breakout alert and EMA alerts resume as normal afterward.
     RANGE_LOOKBACK_CANDLES = _get_int("RANGE_LOOKBACK_CANDLES", "12")
-    RANGE_WIDTH_PCT = _get_float("RANGE_WIDTH_PCT", "2")
+    RANGE_WIDTH_PCT = _get_float("RANGE_WIDTH_PCT", "2.0")
 
     # Symbols containing any of these keywords (case-insensitive substring match,
     # e.g. "PEPE" matches "1000PEPEUSD") are skipped entirely during scanning.
