@@ -417,13 +417,13 @@
     "ETHUSD|5m|fast|up": 5947343,
     "ETHUSD|5m|slow|down": 5947324,
     "ETHUSD|5m|slow|up": 5947331,
-    "EVAAUSD|15m|down": 1982843,
+    "EVAAUSD|15m|down": 1982883,
     "EVAAUSD|15m|fast|down": 1982611,
     "EVAAUSD|15m|fast|up": 1982655,
     "EVAAUSD|15m|slow|down": 1982563,
     "EVAAUSD|15m|slow|up": 1982634,
     "EVAAUSD|15m|up": 1982831,
-    "EVAAUSD|1h|down": 495717,
+    "EVAAUSD|1h|down": 495720,
     "EVAAUSD|1h|fast|down": 495650,
     "EVAAUSD|1h|fast|up": 495648,
     "EVAAUSD|1h|slow|down": 495629,
@@ -474,7 +474,7 @@
     "GOOGLXUSD|5m|fast|up": 5947324,
     "GOOGLXUSD|5m|slow|down": 5947331,
     "GOOGLXUSD|5m|slow|up": 5947324,
-    "HANAUSD|15m|down": 1982851,
+    "HANAUSD|15m|down": 1982883,
     "HANAUSD|15m|fast|down": 1982094,
     "HANAUSD|15m|fast|up": 1982125,
     "HANAUSD|15m|up": 1982872,
@@ -490,7 +490,7 @@
     "HUSD|15m|fast|up": 1982646,
     "HUSD|15m|slow|down": 1982650,
     "HUSD|15m|slow|up": 1982651,
-    "HUSD|15m|up": 1982879,
+    "HUSD|15m|up": 1982882,
     "HUSD|1h|down": 495707,
     "HUSD|1h|fast|down": 495663,
     "HUSD|1h|fast|up": 495658,
@@ -547,7 +547,7 @@
     "KAITOUSD|15m|slow|down": 1982643,
     "KAITOUSD|15m|slow|up": 1982655,
     "KAITOUSD|15m|up": 1982867,
-    "KAITOUSD|1h|down": 495700,
+    "KAITOUSD|1h|down": 495720,
     "KAITOUSD|1h|fast|down": 495658,
     "KAITOUSD|1h|fast|up": 495662,
     "KAITOUSD|1h|slow|down": 495648,
@@ -986,6 +986,7 @@
     "SLVONUSD|1h|fast|up": 495655,
     "SLVONUSD|1h|slow|down": 495589,
     "SLVONUSD|1h|slow|up": 495637,
+    "SLVONUSD|1h|up": 495720,
     "SLVONUSD|5m|fast|down": 5947319,
     "SLVONUSD|5m|fast|up": 5947300,
     "SLVONUSD|5m|slow|down": 5947319,
@@ -1047,7 +1048,7 @@
     "SOXLBUSD|1h|fast|up": 495661,
     "SOXLBUSD|1h|slow|down": 495644,
     "SOXLBUSD|1h|slow|up": 495639,
-    "SOXLBUSD|1h|up": 495669,
+    "SOXLBUSD|1h|up": 495720,
     "SOXLBUSD|5m|fast|down": 5947192,
     "SOXLBUSD|5m|fast|up": 5947331,
     "SOXLBUSD|5m|slow|down": 5947252,
@@ -1301,10 +1302,10 @@
     "1MBABYDOGEUSD|15m": 1783849500,
     "1MBABYDOGEUSD|1h": 1783846800,
     "1MBABYDOGEUSD|5m": 1783850700,
-    "AAPLXUSD|15m": 1784591100,
+    "AAPLXUSD|15m": 1784592900,
     "AAPLXUSD|1h": 1784588400,
     "AAPLXUSD|5m": 1784035500,
-    "AAVEUSD|15m": 1784591100,
+    "AAVEUSD|15m": 1784593800,
     "AAVEUSD|1h": 1784588400,
     "AAVEUSD|5m": 1784202600,
     "ACTUSD|15m": 1783863900,
@@ -1322,10 +1323,10 @@
     "AIOTUSD|15m": 1784085300,
     "AIOTUSD|1h": 1784080800,
     "AIOTUSD|5m": 1784085000,
-    "AIOUSD|15m": 1784591100,
+    "AIOUSD|15m": 1784592900,
     "AIOUSD|1h": 1784588400,
     "AIOUSD|5m": 1783999200,
-    "ALLOUSD|15m": 1784591100,
+    "ALLOUSD|15m": 1784593800,
     "ALLOUSD|1h": 1784588400,
     "ALLOUSD|5m": 1784202600,
     "ALTUSD|15m": 1783922400,
@@ -1343,8 +1344,8 @@
     "ARIAUSD|1h": 1784563200,
     "ARIAUSD|5m": 1783999500,
     "ARMBUSD|15m": 1784396700,
-    "AVAAIUSD|15m": 1784591100,
-    "AVAAIUSD|1h": 1784588400,
+    "AVAAIUSD|15m": 1784594700,
+    "AVAAIUSD|1h": 1784592000,
     "AVAAIUSD|5m": 1783998000,
     "AVAXUSD|15m": 1784540700,
     "AVAXUSD|1h": 1784538000,
@@ -1352,14 +1353,14 @@
     "BASEDUSD|15m": 1784292300,
     "BASEDUSD|1h": 1784289600,
     "BASEDUSD|5m": 1784202900,
-    "BCHUSD|15m": 1784591100,
-    "BCHUSD|1h": 1784588400,
+    "BCHUSD|15m": 1784594700,
+    "BCHUSD|1h": 1784592000,
     "BCHUSD|5m": 1784202600,
-    "BEATUSD|15m": 1784591100,
-    "BEATUSD|1h": 1784588400,
+    "BEATUSD|15m": 1784594700,
+    "BEATUSD|1h": 1784592000,
     "BEATUSD|5m": 1784202900,
-    "BILLUSD|15m": 1784591100,
-    "BILLUSD|1h": 1784588400,
+    "BILLUSD|15m": 1784594700,
+    "BILLUSD|1h": 1784592000,
     "BILLUSD|5m": 1784202900,
     "BLESSUSD|15m": 1784557800,
     "BLESSUSD|1h": 1784552400,
@@ -1367,14 +1368,14 @@
     "BLURUSD|15m": 1783998900,
     "BLURUSD|1h": 1783994400,
     "BLURUSD|5m": 1783999800,
-    "BNBUSD|15m": 1784591100,
+    "BNBUSD|15m": 1784593800,
     "BNBUSD|1h": 1784588400,
     "BNBUSD|5m": 1784202900,
-    "BTCUSD|15m": 1784591100,
-    "BTCUSD|1h": 1784588400,
+    "BTCUSD|15m": 1784594700,
+    "BTCUSD|1h": 1784592000,
     "BTCUSD|5m": 1784202900,
-    "BUSD|15m": 1784591100,
-    "BUSD|1h": 1784588400,
+    "BUSD|15m": 1784594700,
+    "BUSD|1h": 1784592000,
     "BUSD|5m": 1784105700,
     "DEEPUSD|15m": 1783744200,
     "DEEPUSD|1h": 1783767600,
@@ -1391,11 +1392,11 @@
     "ENAUSD|15m": 1783878300,
     "ENAUSD|1h": 1783875600,
     "ENAUSD|5m": 1783879200,
-    "ETHUSD|15m": 1784591100,
-    "ETHUSD|1h": 1784588400,
+    "ETHUSD|15m": 1784594700,
+    "ETHUSD|1h": 1784592000,
     "ETHUSD|5m": 1784202900,
-    "EVAAUSD|15m": 1784591100,
-    "EVAAUSD|1h": 1784588400,
+    "EVAAUSD|15m": 1784594700,
+    "EVAAUSD|1h": 1784592000,
     "EVAAUSD|5m": 1784202900,
     "FARTCOINUSD|15m": 1783849500,
     "FARTCOINUSD|1h": 1783846800,
@@ -1409,13 +1410,13 @@
     "GOOGLXUSD|15m": 1784377800,
     "GOOGLXUSD|1h": 1784372400,
     "GOOGLXUSD|5m": 1784202900,
-    "HANAUSD|15m": 1784591100,
-    "HANAUSD|1h": 1784588400,
+    "HANAUSD|15m": 1784594700,
+    "HANAUSD|1h": 1784592000,
     "HANAUSD|5m": 1783933500,
-    "HUSD|15m": 1784591100,
+    "HUSD|15m": 1784593800,
     "HUSD|1h": 1784588400,
     "HUSD|5m": 1784202900,
-    "HYPEUSD|15m": 1784591100,
+    "HYPEUSD|15m": 1784593800,
     "HYPEUSD|1h": 1784588400,
     "HYPEUSD|5m": 1784202600,
     "INUSD|15m": 1783998900,
@@ -1427,28 +1428,28 @@
     "JASMYUSD|15m": 1783967400,
     "JASMYUSD|1h": 1783962000,
     "JASMYUSD|5m": 1783968000,
-    "KAITOUSD|15m": 1784591100,
-    "KAITOUSD|1h": 1784588400,
+    "KAITOUSD|15m": 1784594700,
+    "KAITOUSD|1h": 1784592000,
     "KAITOUSD|5m": 1784202900,
     "KITEUSD|15m": 1784106900,
     "KITEUSD|1h": 1784102400,
     "KITEUSD|5m": 1784107500,
-    "LABUSD|15m": 1784591100,
-    "LABUSD|1h": 1784588400,
+    "LABUSD|15m": 1784594700,
+    "LABUSD|1h": 1784592000,
     "LABUSD|5m": 1784202900,
     "LDOUSD|15m": 1784288700,
     "LDOUSD|1h": 1784286000,
     "LIGHTUSD|15m": 1784094300,
     "LIGHTUSD|1h": 1784091600,
     "LIGHTUSD|5m": 1784094900,
-    "LINKUSD|15m": 1784591100,
-    "LINKUSD|1h": 1784588400,
+    "LINKUSD|15m": 1784594700,
+    "LINKUSD|1h": 1784592000,
     "LINKUSD|5m": 1784202900,
     "LITUSD|15m": 1784130300,
     "LITUSD|1h": 1784127600,
     "LITUSD|5m": 1784130900,
-    "LTCUSD|15m": 1784591100,
-    "LTCUSD|1h": 1784588400,
+    "LTCUSD|15m": 1784593800,
+    "LTCUSD|1h": 1784592000,
     "LTCUSD|5m": 1784202900,
     "MEMEUSD|15m": 1783849500,
     "MEMEUSD|1h": 1783846800,
@@ -1471,7 +1472,7 @@
     "MUBARAKUSD|15m": 1783998900,
     "MUBARAKUSD|1h": 1783994400,
     "MUBARAKUSD|5m": 1783999800,
-    "MUBUSD|15m": 1784591100,
+    "MUBUSD|15m": 1784593800,
     "MUBUSD|1h": 1784588400,
     "MUBUSD|5m": 1784202900,
     "MUSD|15m": 1784568600,
@@ -1497,8 +1498,8 @@
     "PARTIUSD|15m": 1783998900,
     "PARTIUSD|1h": 1783994400,
     "PARTIUSD|5m": 1783999500,
-    "PAXGUSD|15m": 1784591100,
-    "PAXGUSD|1h": 1784588400,
+    "PAXGUSD|15m": 1784594700,
+    "PAXGUSD|1h": 1784592000,
     "PAXGUSD|5m": 1784202900,
     "PENGUUSD|15m": 1783848600,
     "PENGUUSD|1h": 1783843200,
@@ -1512,10 +1513,10 @@
     "PIUSD|15m": 1784554200,
     "PIUSD|1h": 1784548800,
     "PIUSD|5m": 1784181000,
-    "PUMPUSD|15m": 1784591100,
+    "PUMPUSD|15m": 1784593800,
     "PUMPUSD|1h": 1784588400,
     "PUMPUSD|5m": 1784202900,
-    "QQQXUSD|15m": 1784591100,
+    "QQQXUSD|15m": 1784593800,
     "QQQXUSD|1h": 1784588400,
     "QQQXUSD|5m": 1784202900,
     "RAREUSD|15m": 1783793700,
@@ -1524,8 +1525,8 @@
     "RAVEUSD|15m": 1784375100,
     "RAVEUSD|1h": 1784372400,
     "RAVEUSD|5m": 1784202900,
-    "RIVERUSD|15m": 1784591100,
-    "RIVERUSD|1h": 1784588400,
+    "RIVERUSD|15m": 1784594700,
+    "RIVERUSD|1h": 1784592000,
     "RIVERUSD|5m": 1784202900,
     "RSRUSD|15m": 1783989000,
     "RSRUSD|1h": 1783983600,
@@ -1539,10 +1540,10 @@
     "SEIUSD|15m": 1783780200,
     "SEIUSD|1h": 1783774800,
     "SEIUSD|5m": 1783781100,
-    "SIRENUSD|15m": 1784591100,
-    "SIRENUSD|1h": 1784588400,
+    "SIRENUSD|15m": 1784594700,
+    "SIRENUSD|1h": 1784592000,
     "SIRENUSD|5m": 1783999500,
-    "SKHYBUSD|15m": 1784591100,
+    "SKHYBUSD|15m": 1784592900,
     "SKHYBUSD|1h": 1784588400,
     "SKLUSD|15m": 1784256300,
     "SKLUSD|1h": 1784253600,
@@ -1550,14 +1551,14 @@
     "SKYAIUSD|15m": 1784421900,
     "SKYAIUSD|1h": 1784419200,
     "SKYAIUSD|5m": 1783999800,
-    "SLVONUSD|15m": 1784591100,
-    "SLVONUSD|1h": 1784588400,
+    "SLVONUSD|15m": 1784594700,
+    "SLVONUSD|1h": 1784592000,
     "SLVONUSD|5m": 1784202900,
-    "SNDKBUSD|15m": 1784591100,
-    "SNDKBUSD|1h": 1784588400,
+    "SNDKBUSD|15m": 1784594700,
+    "SNDKBUSD|1h": 1784592000,
     "SNDKBUSD|5m": 1784202900,
-    "SOLUSD|15m": 1784591100,
-    "SOLUSD|1h": 1784588400,
+    "SOLUSD|15m": 1784594700,
+    "SOLUSD|1h": 1784592000,
     "SOLUSD|5m": 1784202900,
     "SOLVUSD|15m": 1784539800,
     "SOLVUSD|1h": 1784534400,
@@ -1568,11 +1569,11 @@
     "SOPHUSD|15m": 1783980000,
     "SOPHUSD|1h": 1783976400,
     "SOPHUSD|5m": 1783955100,
-    "SOXLBUSD|15m": 1784591100,
-    "SOXLBUSD|1h": 1784588400,
+    "SOXLBUSD|15m": 1784594700,
+    "SOXLBUSD|1h": 1784592000,
     "SOXLBUSD|5m": 1784202900,
-    "SPCXXUSD|15m": 1784591100,
-    "SPCXXUSD|1h": 1784588400,
+    "SPCXXUSD|15m": 1784593800,
+    "SPCXXUSD|1h": 1784592000,
     "SPCXXUSD|5m": 1784202900,
     "SPYXUSD|15m": 1784358900,
     "SPYXUSD|1h": 1784354400,
@@ -1582,52 +1583,52 @@
     "SWARMSUSD|15m": 1783986300,
     "SWARMSUSD|1h": 1783983600,
     "SWARMSUSD|5m": 1783987200,
-    "TACUSD|15m": 1784591100,
-    "TACUSD|1h": 1784588400,
+    "TACUSD|15m": 1784593800,
+    "TACUSD|1h": 1784592000,
     "TACUSD|5m": 1784202900,
     "TOWNSUSD|15m": 1783917900,
     "TOWNSUSD|1h": 1783915200,
     "TOWNSUSD|5m": 1783913100,
     "TRUMPUSD|15m": 1784457900,
     "TRUMPUSD|1h": 1784455200,
-    "TSLAXUSD|15m": 1784591100,
+    "TSLAXUSD|15m": 1784593800,
     "TSLAXUSD|1h": 1784588400,
     "TSLAXUSD|5m": 1784202600,
     "TSTUSD|15m": 1783985400,
     "TSTUSD|1h": 1783980000,
     "TSTUSD|5m": 1783966800,
-    "UNIUSD|15m": 1784591100,
+    "UNIUSD|15m": 1784593800,
     "UNIUSD|1h": 1784588400,
     "UNIUSD|5m": 1784202900,
     "USUALUSD|15m": 1783996200,
     "USUALUSD|1h": 1783990800,
     "USUALUSD|5m": 1783996800,
-    "VELVETUSD|15m": 1784591100,
-    "VELVETUSD|1h": 1784588400,
+    "VELVETUSD|15m": 1784594700,
+    "VELVETUSD|1h": 1784592000,
     "VELVETUSD|5m": 1784202900,
     "VIRTUALUSD|15m": 1783871100,
     "VIRTUALUSD|1h": 1783868400,
     "VIRTUALUSD|5m": 1783871700,
-    "VVVUSD|15m": 1784591100,
+    "VVVUSD|15m": 1784593800,
     "VVVUSD|1h": 1784588400,
     "VVVUSD|5m": 1784096400,
     "WLDUSD|15m": 1783899900,
     "WLDUSD|1h": 1783897200,
     "WLDUSD|5m": 1783900800,
-    "XANUSD|15m": 1784591100,
-    "XANUSD|1h": 1784588400,
+    "XANUSD|15m": 1784594700,
+    "XANUSD|1h": 1784592000,
     "XANUSD|5m": 1783999200,
-    "XAUTUSD|15m": 1784591100,
-    "XAUTUSD|1h": 1784588400,
+    "XAUTUSD|15m": 1784594700,
+    "XAUTUSD|1h": 1784592000,
     "XAUTUSD|5m": 1784202900,
     "XLMUSD|15m": 1783756800,
     "XLMUSD|1h": 1783753200,
     "XLMUSD|5m": 1783757700,
-    "XRPUSD|15m": 1784591100,
-    "XRPUSD|1h": 1784588400,
+    "XRPUSD|15m": 1784594700,
+    "XRPUSD|1h": 1784592000,
     "XRPUSD|5m": 1784202900,
-    "ZECUSD|15m": 1784591100,
-    "ZECUSD|1h": 1784588400,
+    "ZECUSD|15m": 1784594700,
+    "ZECUSD|1h": 1784592000,
     "ZECUSD|5m": 1784202900,
     "ZKUSD|15m": 1783996200,
     "ZKUSD|1h": 1783990800,
@@ -1636,8 +1637,15 @@
     "ZORAUSD|1h": 1783803600,
     "ZORAUSD|5m": 1783791300
   },
-  "last_summary_sent": 1784589537,
+  "last_summary_sent": 1784595795,
   "orb_ranges": {
+    "AAPLXUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 327.0,
+      "low": 325.75,
+      "up_alerted": false
+    },
     "AAVEUSD|asia|2026-07-18": {
       "down_alerted": true,
       "formed": true,
@@ -1658,6 +1666,13 @@
       "high": 90.32,
       "low": 89.72,
       "up_alerted": true
+    },
+    "AAVEUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 90.73,
+      "low": 89.84,
+      "up_alerted": false
     },
     "AAVEUSD|london|2026-07-18": {
       "down_alerted": false,
@@ -1729,6 +1744,13 @@
       "low": 0.11194,
       "up_alerted": true
     },
+    "AIOUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.11905,
+      "low": 0.11758,
+      "up_alerted": false
+    },
     "AIOUSD|london|2026-07-20": {
       "down_alerted": false,
       "formed": true,
@@ -1756,6 +1778,13 @@
       "high": 0.4592,
       "low": 0.4436,
       "up_alerted": true
+    },
+    "ALLOUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.4812,
+      "low": 0.4777,
+      "up_alerted": false
     },
     "ALLOUSD|london|2026-07-18": {
       "down_alerted": false,
@@ -1883,6 +1912,13 @@
       "low": 0.010094,
       "up_alerted": true
     },
+    "AVAAIUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.008639,
+      "low": 0.00835,
+      "up_alerted": false
+    },
     "AVAAIUSD|london|2026-07-18": {
       "down_alerted": false,
       "formed": true,
@@ -1946,6 +1982,13 @@
       "low": 214.39,
       "up_alerted": false
     },
+    "BCHUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 221.43,
+      "low": 219.7,
+      "up_alerted": false
+    },
     "BCHUSD|london|2026-07-20": {
       "down_alerted": false,
       "formed": true,
@@ -1980,6 +2023,13 @@
       "high": 2.3675,
       "low": 2.3357,
       "up_alerted": true
+    },
+    "BEATUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 2.4125,
+      "low": 2.3591,
+      "up_alerted": false
     },
     "BEATUSD|london|2026-07-18": {
       "down_alerted": false,
@@ -2042,6 +2092,13 @@
       "formed": true,
       "high": 0.02556,
       "low": 0.02469,
+      "up_alerted": false
+    },
+    "BILLUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.02405,
+      "low": 0.02361,
       "up_alerted": false
     },
     "BILLUSD|london|2026-07-18": {
@@ -2149,6 +2206,13 @@
       "low": 570.7,
       "up_alerted": true
     },
+    "BNBUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 573.62,
+      "low": 571.12,
+      "up_alerted": false
+    },
     "BNBUSD|london|2026-07-18": {
       "down_alerted": false,
       "formed": true,
@@ -2212,6 +2276,13 @@
       "low": 64540.5,
       "up_alerted": true
     },
+    "BTCUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 65527.0,
+      "low": 65120.5,
+      "up_alerted": false
+    },
     "BTCUSD|london|2026-07-18": {
       "down_alerted": false,
       "formed": true,
@@ -2267,6 +2338,13 @@
       "high": 0.2554,
       "low": 0.2281,
       "up_alerted": true
+    },
+    "BUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.2485,
+      "low": 0.2418,
+      "up_alerted": false
     },
     "BUSD|london|2026-07-18": {
       "down_alerted": false,
@@ -2331,6 +2409,13 @@
       "low": 1865.35,
       "up_alerted": true
     },
+    "ETHUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 1916.0,
+      "low": 1899.7,
+      "up_alerted": false
+    },
     "ETHUSD|london|2026-07-18": {
       "down_alerted": false,
       "formed": true,
@@ -2394,6 +2479,13 @@
       "low": 0.7858,
       "up_alerted": true
     },
+    "EVAAUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.9385,
+      "low": 0.9184,
+      "up_alerted": false
+    },
     "EVAAUSD|london|2026-07-18": {
       "down_alerted": true,
       "formed": true,
@@ -2436,6 +2528,13 @@
       "low": 0.9165,
       "up_alerted": true
     },
+    "HANAUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.04342,
+      "low": 0.0425,
+      "up_alerted": false
+    },
     "HANAUSD|newyork|2026-07-20": {
       "down_alerted": true,
       "formed": true,
@@ -2463,6 +2562,13 @@
       "high": 0.05926,
       "low": 0.05816,
       "up_alerted": true
+    },
+    "HUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.05945,
+      "low": 0.05877,
+      "up_alerted": false
     },
     "HUSD|london|2026-07-18": {
       "down_alerted": false,
@@ -2520,6 +2626,13 @@
       "low": 61.04,
       "up_alerted": true
     },
+    "HYPEUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 62.72,
+      "low": 62.35,
+      "up_alerted": false
+    },
     "HYPEUSD|london|2026-07-19": {
       "down_alerted": true,
       "formed": true,
@@ -2568,6 +2681,13 @@
       "high": 0.9646,
       "low": 0.9375,
       "up_alerted": true
+    },
+    "KAITOUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 1.0139,
+      "low": 0.9716,
+      "up_alerted": false
     },
     "KAITOUSD|london|2026-07-18": {
       "down_alerted": false,
@@ -2632,6 +2752,13 @@
       "low": 0.148,
       "up_alerted": false
     },
+    "LABUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.1461,
+      "low": 0.113,
+      "up_alerted": false
+    },
     "LABUSD|london|2026-07-18": {
       "down_alerted": false,
       "formed": true,
@@ -2681,6 +2808,13 @@
       "low": 8.37,
       "up_alerted": true
     },
+    "LINKUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 8.638,
+      "low": 8.569,
+      "up_alerted": false
+    },
     "LINKUSD|london|2026-07-18": {
       "down_alerted": false,
       "formed": true,
@@ -2721,6 +2855,13 @@
       "formed": true,
       "high": 47.79,
       "low": 46.86,
+      "up_alerted": false
+    },
+    "LTCUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 47.47,
+      "low": 47.32,
       "up_alerted": false
     },
     "LTCUSD|london|2026-07-18": {
@@ -2770,6 +2911,13 @@
       "formed": true,
       "high": 846.9,
       "low": 843.6,
+      "up_alerted": false
+    },
+    "MUBUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 882.75,
+      "low": 869.5,
       "up_alerted": false
     },
     "MUBUSD|newyork|2026-07-18": {
@@ -2898,6 +3046,13 @@
       "low": 3979.4,
       "up_alerted": true
     },
+    "PAXGUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 4018.6,
+      "low": 3999.6,
+      "up_alerted": false
+    },
     "PAXGUSD|london|2026-07-18": {
       "down_alerted": false,
       "formed": true,
@@ -2989,6 +3144,13 @@
       "low": 0.001977,
       "up_alerted": false
     },
+    "PUMPUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.002033,
+      "low": 0.002014,
+      "up_alerted": false
+    },
     "PUMPUSD|london|2026-07-20": {
       "down_alerted": true,
       "formed": true,
@@ -3009,6 +3171,13 @@
       "high": 699.21,
       "low": 697.83,
       "up_alerted": true
+    },
+    "QQQXUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 697.22,
+      "low": 694.0,
+      "up_alerted": false
     },
     "QQQXUSD|london|2026-07-20": {
       "down_alerted": false,
@@ -3044,6 +3213,13 @@
       "high": 3.284,
       "low": 3.202,
       "up_alerted": true
+    },
+    "RIVERUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 3.38,
+      "low": 3.34,
+      "up_alerted": false
     },
     "RIVERUSD|london|2026-07-18": {
       "down_alerted": true,
@@ -3094,6 +3270,13 @@
       "low": 0.02617,
       "up_alerted": true
     },
+    "SIRENUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.03101,
+      "low": 0.02848,
+      "up_alerted": false
+    },
     "SIRENUSD|london|2026-07-20": {
       "down_alerted": true,
       "formed": true,
@@ -3113,6 +3296,13 @@
       "formed": true,
       "high": 160.91,
       "low": 160.23,
+      "up_alerted": false
+    },
+    "SKHYBUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 156.11,
+      "low": 153.07,
       "up_alerted": false
     },
     "SKHYBUSD|london|2026-07-20": {
@@ -3178,6 +3368,13 @@
       "low": 50.57,
       "up_alerted": true
     },
+    "SLVONUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 51.56,
+      "low": 51.07,
+      "up_alerted": false
+    },
     "SLVONUSD|london|2026-07-18": {
       "down_alerted": false,
       "formed": true,
@@ -3241,6 +3438,13 @@
       "low": 1366.45,
       "up_alerted": true
     },
+    "SNDKBUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 1425.59,
+      "low": 1392.53,
+      "up_alerted": false
+    },
     "SNDKBUSD|london|2026-07-18": {
       "down_alerted": true,
       "formed": true,
@@ -3303,6 +3507,13 @@
       "high": 77.129,
       "low": 76.128,
       "up_alerted": true
+    },
+    "SOLUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 78.25,
+      "low": 77.758,
+      "up_alerted": false
     },
     "SOLUSD|london|2026-07-18": {
       "down_alerted": false,
@@ -3374,6 +3585,13 @@
       "low": 137.9,
       "up_alerted": true
     },
+    "SOXLBUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 139.5,
+      "low": 134.05,
+      "up_alerted": false
+    },
     "SOXLBUSD|london|2026-07-18": {
       "down_alerted": true,
       "formed": true,
@@ -3414,6 +3632,13 @@
       "formed": true,
       "high": 126.9,
       "low": 125.25,
+      "up_alerted": false
+    },
+    "SPCXXUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 121.25,
+      "low": 120.35,
       "up_alerted": false
     },
     "SPCXXUSD|london|2026-07-18": {
@@ -3463,6 +3688,13 @@
       "formed": true,
       "high": 0.003458,
       "low": 0.003388,
+      "up_alerted": false
+    },
+    "TACUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.003169,
+      "low": 0.003108,
       "up_alerted": false
     },
     "TACUSD|london|2026-07-18": {
@@ -3542,6 +3774,13 @@
       "low": 382.55,
       "up_alerted": false
     },
+    "TSLAXUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 372.05,
+      "low": 370.45,
+      "up_alerted": false
+    },
     "TSLAXUSD|london|2026-07-20": {
       "down_alerted": true,
       "formed": true,
@@ -3569,6 +3808,13 @@
       "high": 3.562,
       "low": 3.55,
       "up_alerted": true
+    },
+    "UNIUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 3.722,
+      "low": 3.625,
+      "up_alerted": false
     },
     "UNIUSD|london|2026-07-18": {
       "down_alerted": false,
@@ -3611,6 +3857,13 @@
       "high": 0.522,
       "low": 0.5072,
       "up_alerted": true
+    },
+    "VELVETUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.545,
+      "low": 0.537,
+      "up_alerted": false
     },
     "VELVETUSD|london|2026-07-18": {
       "down_alerted": false,
@@ -3675,6 +3928,13 @@
       "low": 11.711,
       "up_alerted": false
     },
+    "VVVUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 11.746,
+      "low": 11.527,
+      "up_alerted": false
+    },
     "VVVUSD|london|2026-07-18": {
       "down_alerted": true,
       "formed": true,
@@ -3717,6 +3977,13 @@
       "low": 11.428,
       "up_alerted": true
     },
+    "XANUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.01428,
+      "low": 0.01392,
+      "up_alerted": false
+    },
     "XAUTUSD|asia|2026-07-18": {
       "down_alerted": false,
       "formed": true,
@@ -3737,6 +4004,13 @@
       "high": 4011.41,
       "low": 3989.12,
       "up_alerted": true
+    },
+    "XAUTUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 4029.93,
+      "low": 4011.77,
+      "up_alerted": false
     },
     "XAUTUSD|london|2026-07-18": {
       "down_alerted": false,
@@ -3801,6 +4075,13 @@
       "low": 1.0955,
       "up_alerted": true
     },
+    "XRPUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 1.1177,
+      "low": 1.1115,
+      "up_alerted": false
+    },
     "XRPUSD|london|2026-07-18": {
       "down_alerted": false,
       "formed": true,
@@ -3864,6 +4145,13 @@
       "low": 546.2,
       "up_alerted": true
     },
+    "ZECUSD|asia|2026-07-21": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 549.47,
+      "low": 541.17,
+      "up_alerted": false
+    },
     "ZECUSD|london|2026-07-18": {
       "down_alerted": false,
       "formed": true,
@@ -3914,9 +4202,9 @@
       "low": 325.25
     },
     "AAVEUSD|15m": {
-      "high": 90.13,
-      "in_range": true,
-      "low": 89.27
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "AAVEUSD|1h": {
       "high": null,
@@ -3954,9 +4242,9 @@
       "low": null
     },
     "BNBUSD|15m": {
-      "high": 571.8,
-      "in_range": true,
-      "low": 569.69
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "BNBUSD|1h": {
       "high": null,
@@ -4004,9 +4292,9 @@
       "low": null
     },
     "LINKUSD|15m": {
-      "high": 8.607,
-      "in_range": true,
-      "low": 8.521
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "LTCUSD|15m": {
       "high": 47.7,
@@ -4019,9 +4307,9 @@
       "low": null
     },
     "MUBUSD|15m": {
-      "high": 877.0,
-      "in_range": true,
-      "low": 872.3
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "MUSD|15m": {
       "high": 1.2327,
@@ -4049,9 +4337,9 @@
       "low": 3979.4
     },
     "QQQXUSD|15m": {
-      "high": 695.46,
-      "in_range": true,
-      "low": 693.04
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "QQQXUSD|1h": {
       "high": 703.0,
@@ -4074,9 +4362,9 @@
       "low": null
     },
     "SLVONUSD|15m": {
-      "high": 51.37,
-      "in_range": true,
-      "low": 51.01
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "SLVONUSD|1h": {
       "high": null,
@@ -4084,9 +4372,9 @@
       "low": null
     },
     "SNDKBUSD|15m": {
-      "high": 1412.0,
-      "in_range": true,
-      "low": 1397.6
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "SNDKBUSD|1h": {
       "high": null,
@@ -4114,9 +4402,9 @@
       "low": null
     },
     "SPCXXUSD|15m": {
-      "high": 121.2,
-      "in_range": true,
-      "low": 119.9
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "SPCXXUSD|1h": {
       "high": null,
@@ -4134,9 +4422,9 @@
       "low": 370.4
     },
     "UNIUSD|15m": {
-      "high": 3.64,
-      "in_range": true,
-      "low": 3.589
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "UNIUSD|1h": {
       "high": null,
