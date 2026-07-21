@@ -856,7 +856,7 @@
     "PIUSD|5m|fast|up": 5947222,
     "PIUSD|5m|slow|down": 5947246,
     "PIUSD|5m|slow|up": 5947222,
-    "PUMPUSD|15m|down": 1982894,
+    "PUMPUSD|15m|down": 1982943,
     "PUMPUSD|15m|fast|down": 1982447,
     "PUMPUSD|15m|fast|up": 1982438,
     "PUMPUSD|15m|slow|down": 1982442,
@@ -1373,8 +1373,8 @@
     "BILLUSD|15m": 1784615400,
     "BILLUSD|1h": 1784610000,
     "BILLUSD|5m": 1784202900,
-    "BLESSUSD|15m": 1784647800,
-    "BLESSUSD|1h": 1784642400,
+    "BLESSUSD|15m": 1784648700,
+    "BLESSUSD|1h": 1784646000,
     "BLESSUSD|5m": 1783999200,
     "BLURUSD|15m": 1783998900,
     "BLURUSD|1h": 1783994400,
@@ -1455,8 +1455,8 @@
     "LIGHTUSD|15m": 1784094300,
     "LIGHTUSD|1h": 1784091600,
     "LIGHTUSD|5m": 1784094900,
-    "LINKUSD|15m": 1784647800,
-    "LINKUSD|1h": 1784642400,
+    "LINKUSD|15m": 1784648700,
+    "LINKUSD|1h": 1784646000,
     "LINKUSD|5m": 1784202900,
     "LITUSD|15m": 1784130300,
     "LITUSD|1h": 1784127600,
@@ -1526,8 +1526,8 @@
     "PIUSD|15m": 1784554200,
     "PIUSD|1h": 1784548800,
     "PIUSD|5m": 1784181000,
-    "PUMPUSD|15m": 1784647800,
-    "PUMPUSD|1h": 1784642400,
+    "PUMPUSD|15m": 1784648700,
+    "PUMPUSD|1h": 1784646000,
     "PUMPUSD|5m": 1784202900,
     "QQQXUSD|15m": 1784648700,
     "QQQXUSD|1h": 1784646000,
@@ -1912,7 +1912,7 @@
       "up_alerted": false
     },
     "AMZNXUSD|london|2026-07-21": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 251.14,
       "low": 250.2,
@@ -3379,21 +3379,21 @@
       "formed": true,
       "high": 188.5,
       "low": 187.9,
-      "up_alerted": false
+      "up_alerted": true
     },
     "NBISBUSD|london|2026-07-21": {
       "down_alerted": false,
       "formed": true,
       "high": 195.2,
       "low": 192.85,
-      "up_alerted": false
+      "up_alerted": true
     },
     "NBISBUSD|newyork|2026-07-21": {
       "down_alerted": false,
       "formed": true,
       "high": 199.8,
       "low": 193.25,
-      "up_alerted": false
+      "up_alerted": true
     },
     "NVDAXUSD|london|2026-07-21": {
       "down_alerted": false,
@@ -5023,9 +5023,9 @@
       "low": null
     },
     "LINKUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 8.736,
+      "in_range": true,
+      "low": 8.647
     },
     "LINKUSD|1h": {
       "high": 8.757,
