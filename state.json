@@ -1431,7 +1431,7 @@
     "BANKUSD|15m": 1785066300,
     "BANKUSD|1h": 1785063600,
     "BASEDUSD|15m": 1785065400,
-    "BASEDUSD|1h": 1785060000,
+    "BASEDUSD|1h": 1785063600,
     "BASEDUSD|5m": 1784202900,
     "BCHUSD|15m": 1784872800,
     "BCHUSD|1h": 1784869200,
@@ -1448,8 +1448,8 @@
     "BLURUSD|15m": 1783998900,
     "BLURUSD|1h": 1783994400,
     "BLURUSD|5m": 1783999800,
-    "BNBUSD|15m": 1785065400,
-    "BNBUSD|1h": 1785060000,
+    "BNBUSD|15m": 1785066300,
+    "BNBUSD|1h": 1785063600,
     "BNBUSD|5m": 1784202900,
     "BTCUSD|15m": 1785066300,
     "BTCUSD|1h": 1785063600,
@@ -1569,7 +1569,7 @@
     "MUBUSD|15m": 1784982600,
     "MUBUSD|1h": 1784977200,
     "MUBUSD|5m": 1784202900,
-    "MUSD|15m": 1785065400,
+    "MUSD|15m": 1785066300,
     "MUSD|1h": 1785063600,
     "MUSD|5m": 1784202900,
     "NBISBUSD|15m": 1784952000,
@@ -1592,7 +1592,7 @@
     "PARTIUSD|15m": 1783998900,
     "PARTIUSD|1h": 1783994400,
     "PARTIUSD|5m": 1783999500,
-    "PAXGUSD|15m": 1785065400,
+    "PAXGUSD|15m": 1785066300,
     "PAXGUSD|1h": 1785063600,
     "PAXGUSD|5m": 1784202900,
     "PENGUUSD|15m": 1783848600,
@@ -3310,7 +3310,7 @@
       "formed": true,
       "high": 1.032,
       "low": 1.0107,
-      "up_alerted": false
+      "up_alerted": true
     },
     "KAITOUSD|london|2026-07-23": {
       "down_alerted": false,
@@ -3331,7 +3331,7 @@
       "formed": true,
       "high": 1.055,
       "low": 1.0312,
-      "up_alerted": false
+      "up_alerted": true
     },
     "KAITOUSD|newyork|2026-07-23": {
       "down_alerted": true,
