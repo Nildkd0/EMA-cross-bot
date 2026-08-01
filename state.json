@@ -1532,8 +1532,8 @@
     "BLURUSD|15m": 1783998900,
     "BLURUSD|1h": 1783994400,
     "BLURUSD|5m": 1783999800,
-    "BNBUSD|15m": 1785605400,
-    "BNBUSD|1h": 1785600000,
+    "BNBUSD|15m": 1785606300,
+    "BNBUSD|1h": 1785603600,
     "BNBUSD|5m": 1784202900,
     "BTCUSD|15m": 1785606300,
     "BTCUSD|1h": 1785603600,
@@ -1593,8 +1593,8 @@
     "HANAUSD|15m": 1785065400,
     "HANAUSD|1h": 1785060000,
     "HANAUSD|5m": 1783933500,
-    "HUSD|15m": 1785479400,
-    "HUSD|1h": 1785474000,
+    "HUSD|15m": 1785606300,
+    "HUSD|1h": 1785603600,
     "HUSD|5m": 1784202900,
     "HYPEUSD|15m": 1785606300,
     "HYPEUSD|1h": 1785603600,
@@ -1610,8 +1610,8 @@
     "JASMYUSD|15m": 1783967400,
     "JASMYUSD|1h": 1783962000,
     "JASMYUSD|5m": 1783968000,
-    "KAITOUSD|15m": 1785555000,
-    "KAITOUSD|1h": 1785553200,
+    "KAITOUSD|15m": 1785606300,
+    "KAITOUSD|1h": 1785603600,
     "KAITOUSD|5m": 1784202900,
     "KITEUSD|15m": 1784106900,
     "KITEUSD|1h": 1784102400,
@@ -1632,7 +1632,7 @@
     "LITUSD|15m": 1785371400,
     "LITUSD|1h": 1785366000,
     "LITUSD|5m": 1784130900,
-    "LTCUSD|15m": 1785605400,
+    "LTCUSD|15m": 1785606300,
     "LTCUSD|1h": 1785603600,
     "LTCUSD|5m": 1784202900,
     "MEMEUSD|15m": 1783849500,
@@ -1641,8 +1641,8 @@
     "METAXUSD|15m": 1785572100,
     "METAXUSD|1h": 1785567600,
     "METAXUSD|5m": 1784202900,
-    "MMTUSD|15m": 1785605400,
-    "MMTUSD|1h": 1785600000,
+    "MMTUSD|15m": 1785606300,
+    "MMTUSD|1h": 1785603600,
     "MMTUSD|5m": 1783895700,
     "MONUSD|15m": 1783933200,
     "MONUSD|1h": 1783929600,
@@ -1705,7 +1705,7 @@
     "PIUSD|5m": 1784181000,
     "PLTRBUSD|15m": 1785306600,
     "PLTRBUSD|1h": 1785301200,
-    "PUMPUSD|15m": 1785605400,
+    "PUMPUSD|15m": 1785606300,
     "PUMPUSD|1h": 1785603600,
     "PUMPUSD|5m": 1784202900,
     "QQQXUSD|15m": 1785591000,
@@ -1752,8 +1752,8 @@
     "SOLUSD|15m": 1785606300,
     "SOLUSD|1h": 1785603600,
     "SOLUSD|5m": 1784202900,
-    "SOLVUSD|15m": 1785605400,
-    "SOLVUSD|1h": 1785600000,
+    "SOLVUSD|15m": 1785606300,
+    "SOLVUSD|1h": 1785603600,
     "SOLVUSD|5m": 1783779600,
     "SONICUSD|15m": 1783982700,
     "SONICUSD|1h": 1783980000,
@@ -3398,6 +3398,13 @@
       "low": 0.06488,
       "up_alerted": true
     },
+    "HUSD|asia|2026-08-01": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.06505,
+      "low": 0.06337,
+      "up_alerted": false
+    },
     "HUSD|london|2026-07-29": {
       "down_alerted": true,
       "formed": true,
@@ -3412,6 +3419,13 @@
       "low": 0.06417,
       "up_alerted": false
     },
+    "HUSD|london|2026-08-01": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.06711,
+      "low": 0.06584,
+      "up_alerted": false
+    },
     "HUSD|newyork|2026-07-29": {
       "down_alerted": false,
       "formed": true,
@@ -3424,6 +3438,13 @@
       "formed": true,
       "high": 0.06515,
       "low": 0.06474,
+      "up_alerted": false
+    },
+    "HUSD|newyork|2026-08-01": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.06688,
+      "low": 0.06631,
       "up_alerted": false
     },
     "HYPEUSD|asia|2026-07-29": {
@@ -3559,6 +3580,13 @@
       "low": 1.122,
       "up_alerted": false
     },
+    "KAITOUSD|london|2026-08-01": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 1.1058,
+      "low": 1.0928,
+      "up_alerted": false
+    },
     "KAITOUSD|newyork|2026-07-29": {
       "down_alerted": false,
       "formed": true,
@@ -3579,6 +3607,13 @@
       "high": 1.1072,
       "low": 1.065,
       "up_alerted": true
+    },
+    "KAITOUSD|newyork|2026-08-01": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 1.1184,
+      "low": 1.103,
+      "up_alerted": false
     },
     "LABUSD|asia|2026-07-30": {
       "down_alerted": true,
@@ -5880,9 +5915,9 @@
       "low": null
     },
     "HUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 0.06716,
+      "in_range": true,
+      "low": 0.06642
     },
     "HYPEUSD|15m": {
       "high": null,
@@ -5925,9 +5960,9 @@
       "low": null
     },
     "LTCUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 44.25,
+      "in_range": true,
+      "low": 43.91
     },
     "LTCUSD|1h": {
       "high": 44.54,
