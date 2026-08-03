@@ -1475,8 +1475,8 @@
     "AAPLXUSD|15m": 1785599100,
     "AAPLXUSD|1h": 1785596400,
     "AAPLXUSD|5m": 1784035500,
-    "AAVEUSD|15m": 1785742200,
-    "AAVEUSD|1h": 1785736800,
+    "AAVEUSD|15m": 1785743100,
+    "AAVEUSD|1h": 1785740400,
     "AAVEUSD|5m": 1784202600,
     "ACTUSD|15m": 1783863900,
     "ACTUSD|1h": 1783861200,
@@ -1543,7 +1543,7 @@
     "BLURUSD|15m": 1783998900,
     "BLURUSD|1h": 1783994400,
     "BLURUSD|5m": 1783999800,
-    "BNBUSD|15m": 1785742200,
+    "BNBUSD|15m": 1785743100,
     "BNBUSD|1h": 1785740400,
     "BNBUSD|5m": 1784202900,
     "BTCUSD|15m": 1785743100,
@@ -1643,8 +1643,8 @@
     "LITUSD|15m": 1785371400,
     "LITUSD|1h": 1785366000,
     "LITUSD|5m": 1784130900,
-    "LTCUSD|15m": 1785742200,
-    "LTCUSD|1h": 1785736800,
+    "LTCUSD|15m": 1785743100,
+    "LTCUSD|1h": 1785740400,
     "LTCUSD|5m": 1784202900,
     "MEMEUSD|15m": 1783849500,
     "MEMEUSD|1h": 1783846800,
@@ -1670,7 +1670,7 @@
     "MUBARAKUSD|1h": 1785600000,
     "MUBARAKUSD|5m": 1783999800,
     "MUBUSD|15m": 1785603600,
-    "MUBUSD|1h": 1785600000,
+    "MUBUSD|1h": 1785740400,
     "MUBUSD|5m": 1784202900,
     "MUSD|15m": 1785743100,
     "MUSD|1h": 1785740400,
@@ -3640,6 +3640,13 @@
       "low": 816.75,
       "up_alerted": true
     },
+    "MUBUSD|asia|2026-08-03": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 849.25,
+      "low": 837.5,
+      "up_alerted": false
+    },
     "MUBUSD|london|2026-07-31": {
       "down_alerted": true,
       "formed": true,
@@ -4955,9 +4962,9 @@
       "low": 307.0
     },
     "AAVEUSD|15m": {
-      "high": 92.47,
-      "in_range": true,
-      "low": 91.59
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "AAVEUSD|1h": {
       "high": null,
@@ -5045,9 +5052,9 @@
       "low": null
     },
     "BNBUSD|15m": {
-      "high": 583.32,
-      "in_range": true,
-      "low": 581.78
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "BNBUSD|1h": {
       "high": 590.44,
@@ -5190,9 +5197,9 @@
       "low": null
     },
     "LTCUSD|15m": {
-      "high": 44.65,
-      "in_range": true,
-      "low": 44.34
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "LTCUSD|1h": {
       "high": null,
@@ -5230,9 +5237,9 @@
       "low": 816.0
     },
     "MUBUSD|1h": {
-      "high": 825.95,
-      "in_range": true,
-      "low": 814.9
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "MUSD|15m": {
       "high": null,
