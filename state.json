@@ -1525,7 +1525,7 @@
     "ACTUSD|15m": 1786122000,
     "ACTUSD|1h": 1786118400,
     "ACTUSD|5m": 1783864500,
-    "ADAUSD|15m": 1786123800,
+    "ADAUSD|15m": 1786124700,
     "ADAUSD|1h": 1786122000,
     "ADAUSD|5m": 1784202900,
     "AIGENSYNUSD|15m": 1785043800,
@@ -1537,8 +1537,8 @@
     "AIOTUSD|15m": 1784085300,
     "AIOTUSD|1h": 1784080800,
     "AIOTUSD|5m": 1784085000,
-    "AIOUSD|15m": 1786123800,
-    "AIOUSD|1h": 1786118400,
+    "AIOUSD|15m": 1786124700,
+    "AIOUSD|1h": 1786122000,
     "AIOUSD|5m": 1783999200,
     "AKEUSD|15m": 1786124700,
     "AKEUSD|1h": 1786122000,
@@ -1566,10 +1566,10 @@
     "AVAAIUSD|15m": 1784987100,
     "AVAAIUSD|1h": 1784984400,
     "AVAAIUSD|5m": 1783998000,
-    "AVAXUSD|15m": 1786123800,
+    "AVAXUSD|15m": 1786124700,
     "AVAXUSD|1h": 1786122000,
     "AVAXUSD|5m": 1784202000,
-    "BANKUSD|15m": 1786123800,
+    "BANKUSD|15m": 1786124700,
     "BANKUSD|1h": 1786122000,
     "BASEDUSD|15m": 1785072600,
     "BASEDUSD|1h": 1785067200,
@@ -1591,7 +1591,7 @@
     "BLURUSD|15m": 1783998900,
     "BLURUSD|1h": 1783994400,
     "BLURUSD|5m": 1783999800,
-    "BNBUSD|15m": 1786123800,
+    "BNBUSD|15m": 1786124700,
     "BNBUSD|1h": 1786122000,
     "BNBUSD|5m": 1784202900,
     "BTCUSD|15m": 1786124700,
@@ -1687,18 +1687,18 @@
     "LIGHTUSD|15m": 1785696300,
     "LIGHTUSD|1h": 1785693600,
     "LIGHTUSD|5m": 1784094900,
-    "LINKUSD|15m": 1786123800,
+    "LINKUSD|15m": 1786124700,
     "LINKUSD|1h": 1786122000,
     "LINKUSD|5m": 1784202900,
     "LISTAUSD|15m": 1784817900,
     "LISTAUSD|1h": 1784815200,
-    "LITEBUSD|15m": 1786122900,
-    "LITEBUSD|1h": 1786118400,
-    "LITUSD|15m": 1786123800,
-    "LITUSD|1h": 1786118400,
+    "LITEBUSD|15m": 1786124700,
+    "LITEBUSD|1h": 1786122000,
+    "LITUSD|15m": 1786124700,
+    "LITUSD|1h": 1786122000,
     "LITUSD|5m": 1784130900,
-    "LTCUSD|15m": 1786123800,
-    "LTCUSD|1h": 1786118400,
+    "LTCUSD|15m": 1786124700,
+    "LTCUSD|1h": 1786122000,
     "LTCUSD|5m": 1784202900,
     "MEMEUSD|15m": 1783849500,
     "MEMEUSD|1h": 1783846800,
@@ -1723,22 +1723,22 @@
     "MUBARAKUSD|15m": 1785602700,
     "MUBARAKUSD|1h": 1785600000,
     "MUBARAKUSD|5m": 1783999800,
-    "MUBUSD|15m": 1786123800,
+    "MUBUSD|15m": 1786124700,
     "MUBUSD|1h": 1786122000,
     "MUBUSD|5m": 1784202900,
     "MUSD|15m": 1785835800,
     "MUSD|1h": 1785834000,
     "MUSD|5m": 1784202900,
-    "NBISBUSD|15m": 1786123800,
-    "NBISBUSD|1h": 1786118400,
+    "NBISBUSD|15m": 1786124700,
+    "NBISBUSD|1h": 1786122000,
     "NEIROUSD|15m": 1783849500,
     "NEIROUSD|1h": 1783846800,
     "NEIROUSD|5m": 1783850400,
     "NOTUSD|15m": 1783998000,
     "NOTUSD|1h": 1783994400,
     "NOTUSD|5m": 1783998600,
-    "NVDAXUSD|15m": 1786123800,
-    "NVDAXUSD|1h": 1786118400,
+    "NVDAXUSD|15m": 1786124700,
+    "NVDAXUSD|1h": 1786122000,
     "NVDAXUSD|5m": 1784142000,
     "ONDOUSD|15m": 1786020300,
     "ONDOUSD|1h": 1786017600,
@@ -1773,8 +1773,8 @@
     "PUMPUSD|15m": 1786019400,
     "PUMPUSD|1h": 1786014000,
     "PUMPUSD|5m": 1784202900,
-    "QQQXUSD|15m": 1786123800,
-    "QQQXUSD|1h": 1786118400,
+    "QQQXUSD|15m": 1786124700,
+    "QQQXUSD|1h": 1786122000,
     "QQQXUSD|5m": 1784202900,
     "RAREUSD|15m": 1783793700,
     "RAREUSD|1h": 1783789200,
@@ -4548,7 +4548,7 @@
       "formed": true,
       "high": 156.15,
       "low": 156.05,
-      "up_alerted": false
+      "up_alerted": true
     },
     "PLTRBUSD|london|2026-08-04": {
       "down_alerted": false,
@@ -4576,7 +4576,7 @@
       "formed": true,
       "high": 157.55,
       "low": 157.15,
-      "up_alerted": false
+      "up_alerted": true
     },
     "PLTRBUSD|newyork|2026-08-04": {
       "down_alerted": false,
@@ -4604,7 +4604,7 @@
       "formed": true,
       "high": 164.8,
       "low": 158.35,
-      "up_alerted": false
+      "up_alerted": true
     },
     "PUMPUSD|asia|2026-08-05": {
       "down_alerted": false,
@@ -6016,9 +6016,9 @@
       "low": 269.53
     },
     "AVAXUSD|15m": {
-      "high": 6.462,
-      "in_range": true,
-      "low": 6.384
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "AVAXUSD|1h": {
       "high": null,
@@ -6226,14 +6226,14 @@
       "low": null
     },
     "LTCUSD|15m": {
+      "high": 46.08,
+      "in_range": true,
+      "low": 45.45
+    },
+    "LTCUSD|1h": {
       "high": null,
       "in_range": false,
       "low": null
-    },
-    "LTCUSD|1h": {
-      "high": 46.08,
-      "in_range": true,
-      "low": 45.56
     },
     "METAXUSD|15m": {
       "high": null,
