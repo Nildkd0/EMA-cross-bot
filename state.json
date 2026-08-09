@@ -1533,8 +1533,8 @@
     "AAPLXUSD|15m": 1786197600,
     "AAPLXUSD|1h": 1786194000,
     "AAPLXUSD|5m": 1784035500,
-    "AAVEUSD|15m": 1786264200,
-    "AAVEUSD|1h": 1786258800,
+    "AAVEUSD|15m": 1786265100,
+    "AAVEUSD|1h": 1786262400,
     "AAVEUSD|5m": 1784202600,
     "ACTUSD|15m": 1786122000,
     "ACTUSD|1h": 1786118400,
@@ -1556,8 +1556,8 @@
     "AIOUSD|5m": 1783999200,
     "AKEUSD|15m": 1786265100,
     "AKEUSD|1h": 1786262400,
-    "ALLOUSD|15m": 1786264200,
-    "ALLOUSD|1h": 1786258800,
+    "ALLOUSD|15m": 1786265100,
+    "ALLOUSD|1h": 1786262400,
     "ALLOUSD|5m": 1784202600,
     "ALTUSD|15m": 1783922400,
     "ALTUSD|1h": 1783918800,
@@ -1583,8 +1583,8 @@
     "AVAXUSD|15m": 1786231800,
     "AVAXUSD|1h": 1786226400,
     "AVAXUSD|5m": 1784202000,
-    "BANKUSD|15m": 1786264200,
-    "BANKUSD|1h": 1786258800,
+    "BANKUSD|15m": 1786265100,
+    "BANKUSD|1h": 1786262400,
     "BASEDUSD|15m": 1785072600,
     "BASEDUSD|1h": 1785067200,
     "BASEDUSD|5m": 1784202900,
@@ -1607,8 +1607,8 @@
     "BLURUSD|5m": 1783999800,
     "BMTUSD|15m": 1786265100,
     "BMTUSD|1h": 1786262400,
-    "BNBUSD|15m": 1786264200,
-    "BNBUSD|1h": 1786258800,
+    "BNBUSD|15m": 1786265100,
+    "BNBUSD|1h": 1786262400,
     "BNBUSD|5m": 1784202900,
     "BTCUSD|15m": 1786265100,
     "BTCUSD|1h": 1786262400,
@@ -1622,7 +1622,7 @@
     "COAIUSD|1h": 1785373200,
     "COINXUSD|15m": 1785591900,
     "COINXUSD|1h": 1785589200,
-    "COOKIEUSD|15m": 1786264200,
+    "COOKIEUSD|15m": 1786265100,
     "COOKIEUSD|1h": 1786262400,
     "CRCLXUSD|15m": 1786011300,
     "CRCLXUSD|1h": 1786006800,
@@ -1800,8 +1800,8 @@
     "RAVEUSD|15m": 1786265100,
     "RAVEUSD|1h": 1786262400,
     "RAVEUSD|5m": 1784202900,
-    "RIVERUSD|15m": 1786264200,
-    "RIVERUSD|1h": 1786258800,
+    "RIVERUSD|15m": 1786265100,
+    "RIVERUSD|1h": 1786262400,
     "RIVERUSD|5m": 1784202900,
     "RSRUSD|15m": 1783989000,
     "RSRUSD|1h": 1783983600,
@@ -1829,8 +1829,8 @@
     "SLVONUSD|15m": 1786264200,
     "SLVONUSD|1h": 1786258800,
     "SLVONUSD|5m": 1784202900,
-    "SNDKBUSD|15m": 1786264200,
-    "SNDKBUSD|1h": 1786258800,
+    "SNDKBUSD|15m": 1786265100,
+    "SNDKBUSD|1h": 1786262400,
     "SNDKBUSD|5m": 1784202900,
     "SOLUSD|15m": 1786265100,
     "SOLUSD|1h": 1786262400,
@@ -1910,7 +1910,7 @@
     "XRPUSD|15m": 1786265100,
     "XRPUSD|1h": 1786262400,
     "XRPUSD|5m": 1784202900,
-    "ZECUSD|15m": 1786264200,
+    "ZECUSD|15m": 1786265100,
     "ZECUSD|1h": 1786262400,
     "ZECUSD|5m": 1784202900,
     "ZKUSD|15m": 1783996200,
@@ -2252,7 +2252,7 @@
       "up_alerted": true
     },
     "AKEUSD|london|2026-08-09": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 0.0041118,
       "low": 0.0040503,
@@ -2529,7 +2529,7 @@
       "formed": true,
       "high": 0.03825,
       "low": 0.03758,
-      "up_alerted": false
+      "up_alerted": true
     },
     "BANKUSD|newyork|2026-08-06": {
       "down_alerted": true,
@@ -2602,7 +2602,7 @@
       "up_alerted": true
     },
     "BEATUSD|london|2026-08-09": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 3.4197,
       "low": 3.2139,
@@ -4219,7 +4219,7 @@
       "up_alerted": true
     },
     "RAVEUSD|london|2026-08-09": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 0.3543,
       "low": 0.3458,
@@ -4317,7 +4317,7 @@
       "up_alerted": true
     },
     "SAGAUSD|london|2026-08-09": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 0.01743,
       "low": 0.01665,
@@ -4786,7 +4786,7 @@
       "up_alerted": true
     },
     "SPCXXUSD|london|2026-08-09": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 137.45,
       "low": 136.05,
@@ -5891,14 +5891,14 @@
       "low": 57.55
     },
     "SNDKBUSD|15m": {
+      "high": 1228.59,
+      "in_range": true,
+      "low": 1218.0
+    },
+    "SNDKBUSD|1h": {
       "high": null,
       "in_range": false,
       "low": null
-    },
-    "SNDKBUSD|1h": {
-      "high": 1228.76,
-      "in_range": true,
-      "low": 1220.51
     },
     "SOLUSD|15m": {
       "high": 76.8301,
