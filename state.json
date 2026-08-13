@@ -1606,8 +1606,8 @@
     "AVAAIUSD|15m": 1786635900,
     "AVAAIUSD|1h": 1786633200,
     "AVAAIUSD|5m": 1783998000,
-    "AVAXUSD|15m": 1786635000,
-    "AVAXUSD|1h": 1786629600,
+    "AVAXUSD|15m": 1786635900,
+    "AVAXUSD|1h": 1786633200,
     "AVAXUSD|5m": 1784202000,
     "BANKUSD|15m": 1786635900,
     "BANKUSD|1h": 1786633200,
@@ -1631,7 +1631,7 @@
     "BLURUSD|15m": 1783998900,
     "BLURUSD|1h": 1783994400,
     "BLURUSD|5m": 1783999800,
-    "BMTUSD|15m": 1786635000,
+    "BMTUSD|15m": 1786635900,
     "BMTUSD|1h": 1786633200,
     "BNBUSD|15m": 1786635900,
     "BNBUSD|1h": 1786633200,
@@ -1694,8 +1694,8 @@
     "GALAUSD|5m": 1783996200,
     "GIGGLEUSD|15m": 1786602600,
     "GIGGLEUSD|1h": 1786597200,
-    "GOOGLXUSD|15m": 1786635000,
-    "GOOGLXUSD|1h": 1786629600,
+    "GOOGLXUSD|15m": 1786635900,
+    "GOOGLXUSD|1h": 1786633200,
     "GOOGLXUSD|5m": 1784202900,
     "HANAUSD|15m": 1785065400,
     "HANAUSD|1h": 1785060000,
@@ -1743,8 +1743,8 @@
     "LITUSD|15m": 1786512600,
     "LITUSD|1h": 1786507200,
     "LITUSD|5m": 1784130900,
-    "LTCUSD|15m": 1786635000,
-    "LTCUSD|1h": 1786629600,
+    "LTCUSD|15m": 1786635900,
+    "LTCUSD|1h": 1786633200,
     "LTCUSD|5m": 1784202900,
     "MEMEUSD|15m": 1783849500,
     "MEMEUSD|1h": 1783846800,
@@ -1821,8 +1821,8 @@
     "PUMPUSD|15m": 1786405500,
     "PUMPUSD|1h": 1786402800,
     "PUMPUSD|5m": 1784202900,
-    "QQQXUSD|15m": 1786635000,
-    "QQQXUSD|1h": 1786629600,
+    "QQQXUSD|15m": 1786635900,
+    "QQQXUSD|1h": 1786633200,
     "QQQXUSD|5m": 1784202900,
     "RAREUSD|15m": 1786628700,
     "RAREUSD|1h": 1786626000,
@@ -1830,7 +1830,7 @@
     "RAVEUSD|15m": 1786335300,
     "RAVEUSD|1h": 1786330800,
     "RAVEUSD|5m": 1784202900,
-    "RIVERUSD|15m": 1786635000,
+    "RIVERUSD|15m": 1786635900,
     "RIVERUSD|1h": 1786633200,
     "RIVERUSD|5m": 1784202900,
     "RKLBBUSD|15m": 1786541400,
@@ -6315,9 +6315,9 @@
       "low": null
     },
     "AVAXUSD|1h": {
-      "high": 6.554,
-      "in_range": true,
-      "low": 6.476
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "BANKUSD|15m": {
       "high": null,
@@ -6475,9 +6475,9 @@
       "low": 344.5
     },
     "GOOGLXUSD|1h": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 348.8,
+      "in_range": true,
+      "low": 344.4
     },
     "HANAUSD|15m": {
       "high": null,
