@@ -1606,8 +1606,8 @@
     "AVAAIUSD|15m": 1786628700,
     "AVAAIUSD|1h": 1786626000,
     "AVAAIUSD|5m": 1783998000,
-    "AVAXUSD|15m": 1786627800,
-    "AVAXUSD|1h": 1786622400,
+    "AVAXUSD|15m": 1786628700,
+    "AVAXUSD|1h": 1786626000,
     "AVAXUSD|5m": 1784202000,
     "BANKUSD|15m": 1786628700,
     "BANKUSD|1h": 1786626000,
@@ -1633,7 +1633,7 @@
     "BLURUSD|5m": 1783999800,
     "BMTUSD|15m": 1786628700,
     "BMTUSD|1h": 1786626000,
-    "BNBUSD|15m": 1786627800,
+    "BNBUSD|15m": 1786628700,
     "BNBUSD|1h": 1786626000,
     "BNBUSD|5m": 1784202900,
     "BTCUSD|15m": 1786628700,
@@ -1785,8 +1785,8 @@
     "NOTUSD|15m": 1783998000,
     "NOTUSD|1h": 1783994400,
     "NOTUSD|5m": 1783998600,
-    "NVDAXUSD|15m": 1786627800,
-    "NVDAXUSD|1h": 1786622400,
+    "NVDAXUSD|15m": 1786628700,
+    "NVDAXUSD|1h": 1786626000,
     "NVDAXUSD|5m": 1784142000,
     "ONDOUSD|15m": 1786020300,
     "ONDOUSD|1h": 1786017600,
@@ -2067,7 +2067,7 @@
       "up_alerted": false
     },
     "AAVEUSD|newyork|2026-08-13": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 88.84,
       "low": 88.11,
@@ -2295,7 +2295,7 @@
       "formed": true,
       "high": 0.0056931,
       "low": 0.0051564,
-      "up_alerted": false
+      "up_alerted": true
     },
     "AMZNXUSD|asia|2026-08-12": {
       "down_alerted": true,
@@ -2330,7 +2330,7 @@
       "formed": true,
       "high": 269.4,
       "low": 266.3,
-      "up_alerted": false
+      "up_alerted": true
     },
     "ARCUSD|asia|2026-08-10": {
       "down_alerted": true,
@@ -2743,7 +2743,7 @@
       "formed": true,
       "high": 0.9039,
       "low": 0.8695,
-      "up_alerted": false
+      "up_alerted": true
     },
     "BLESSUSD|asia|2026-08-10": {
       "down_alerted": false,
@@ -3688,7 +3688,7 @@
       "formed": true,
       "high": 57.41,
       "low": 56.91,
-      "up_alerted": false
+      "up_alerted": true
     },
     "HYPEUSD|newyork|2026-08-10": {
       "down_alerted": true,
@@ -4104,7 +4104,7 @@
       "up_alerted": true
     },
     "LTCUSD|newyork|2026-08-13": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 45.07,
       "low": 44.9,
@@ -4388,7 +4388,7 @@
       "formed": true,
       "high": 930.85,
       "low": 908.45,
-      "up_alerted": false
+      "up_alerted": true
     },
     "NBISBUSD|asia|2026-08-12": {
       "down_alerted": false,
@@ -4608,7 +4608,7 @@
       "up_alerted": false
     },
     "PAXGUSD|newyork|2026-08-13": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 4396.61,
       "low": 4371.5,
@@ -4780,7 +4780,7 @@
       "formed": true,
       "high": 727.62,
       "low": 723.58,
-      "up_alerted": false
+      "up_alerted": true
     },
     "RAREUSD|asia|2026-08-12": {
       "down_alerted": false,
@@ -5060,7 +5060,7 @@
       "formed": true,
       "high": 157.62,
       "low": 152.92,
-      "up_alerted": false
+      "up_alerted": true
     },
     "SKYAIUSD|asia|2026-08-10": {
       "down_alerted": true,
@@ -5140,7 +5140,7 @@
       "up_alerted": true
     },
     "SKYAIUSD|newyork|2026-08-13": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 0.079,
       "low": 0.07666,
@@ -5224,7 +5224,7 @@
       "up_alerted": false
     },
     "SLVONUSD|newyork|2026-08-13": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 59.36,
       "low": 58.86,
@@ -5312,7 +5312,7 @@
       "formed": true,
       "high": 1383.26,
       "low": 1335.0,
-      "up_alerted": false
+      "up_alerted": true
     },
     "SOLUSD|asia|2026-08-10": {
       "down_alerted": true,
@@ -5480,7 +5480,7 @@
       "formed": true,
       "high": 146.95,
       "low": 142.25,
-      "up_alerted": false
+      "up_alerted": true
     },
     "SPCXXUSD|asia|2026-08-10": {
       "down_alerted": true,
@@ -5560,7 +5560,7 @@
       "up_alerted": true
     },
     "SPCXXUSD|newyork|2026-08-13": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 145.55,
       "low": 143.45,
@@ -5676,7 +5676,7 @@
       "formed": true,
       "high": 332.2,
       "low": 326.2,
-      "up_alerted": false
+      "up_alerted": true
     },
     "TSTUSD|asia|2026-08-10": {
       "down_alerted": true,
@@ -5756,7 +5756,7 @@
       "up_alerted": true
     },
     "TSTUSD|newyork|2026-08-13": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 0.0157,
       "low": 0.0153,
@@ -5921,7 +5921,7 @@
       "formed": true,
       "high": 0.5909,
       "low": 0.5852,
-      "up_alerted": false
+      "up_alerted": true
     },
     "WLDUSD|asia|2026-08-11": {
       "down_alerted": true,
@@ -6043,7 +6043,7 @@
       "up_alerted": false
     },
     "XAUTUSD|newyork|2026-08-13": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 4386.89,
       "low": 4361.6,
@@ -6315,9 +6315,9 @@
       "low": 6.456
     },
     "AVAXUSD|1h": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 6.554,
+      "in_range": true,
+      "low": 6.476
     },
     "BANKUSD|15m": {
       "high": null,
@@ -6620,14 +6620,14 @@
       "low": 1.596
     },
     "NVDAXUSD|15m": {
-      "high": 225.25,
-      "in_range": true,
-      "low": 222.65
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "NVDAXUSD|1h": {
-      "high": 225.15,
-      "in_range": true,
-      "low": 223.7
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "ONDOUSD|15m": {
       "high": null,
