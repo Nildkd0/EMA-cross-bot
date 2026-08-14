@@ -1560,7 +1560,7 @@
     "AAPLXUSD|15m": 1786692600,
     "AAPLXUSD|1h": 1786687200,
     "AAPLXUSD|5m": 1784035500,
-    "AAVEUSD|15m": 1786692600,
+    "AAVEUSD|15m": 1786693500,
     "AAVEUSD|1h": 1786690800,
     "AAVEUSD|5m": 1784202600,
     "ACTUSD|15m": 1786446000,
@@ -1589,7 +1589,7 @@
     "ALTUSD|15m": 1783922400,
     "ALTUSD|1h": 1783918800,
     "ALTUSD|5m": 1783923600,
-    "AMDBUSD|15m": 1786692600,
+    "AMDBUSD|15m": 1786693500,
     "AMDBUSD|1h": 1786690800,
     "AMZNXUSD|15m": 1786632300,
     "AMZNXUSD|1h": 1786629600,
@@ -1634,13 +1634,13 @@
     "BLURUSD|5m": 1783999800,
     "BMTUSD|15m": 1786688100,
     "BMTUSD|1h": 1786683600,
-    "BNBUSD|15m": 1786692600,
+    "BNBUSD|15m": 1786693500,
     "BNBUSD|1h": 1786690800,
     "BNBUSD|5m": 1784202900,
     "BTCUSD|15m": 1786693500,
     "BTCUSD|1h": 1786690800,
     "BTCUSD|5m": 1784202900,
-    "BUSD|15m": 1786692600,
+    "BUSD|15m": 1786693500,
     "BUSD|1h": 1786690800,
     "BUSD|5m": 1784105700,
     "CBRSBUSD|15m": 1786693500,
@@ -1734,8 +1734,8 @@
     "LIGHTUSD|15m": 1786542300,
     "LIGHTUSD|1h": 1786539600,
     "LIGHTUSD|5m": 1784094900,
-    "LINKUSD|15m": 1786692600,
-    "LINKUSD|1h": 1786687200,
+    "LINKUSD|15m": 1786693500,
+    "LINKUSD|1h": 1786690800,
     "LINKUSD|5m": 1784202900,
     "LISTAUSD|15m": 1784817900,
     "LISTAUSD|1h": 1784815200,
@@ -1831,7 +1831,7 @@
     "RAVEUSD|15m": 1786335300,
     "RAVEUSD|1h": 1786330800,
     "RAVEUSD|5m": 1784202900,
-    "RIVERUSD|15m": 1786692600,
+    "RIVERUSD|15m": 1786693500,
     "RIVERUSD|1h": 1786690800,
     "RIVERUSD|5m": 1784202900,
     "RKLBBUSD|15m": 1786541400,
@@ -1851,8 +1851,8 @@
     "SIRENUSD|15m": 1786462200,
     "SIRENUSD|1h": 1786456800,
     "SIRENUSD|5m": 1783999500,
-    "SKHYBUSD|15m": 1786692600,
-    "SKHYBUSD|1h": 1786687200,
+    "SKHYBUSD|15m": 1786693500,
+    "SKHYBUSD|1h": 1786690800,
     "SKLUSD|15m": 1784256300,
     "SKLUSD|1h": 1784253600,
     "SKLUSD|5m": 1784202900,
@@ -5531,9 +5531,9 @@
       "low": 305.25
     },
     "AAVEUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 88.12,
+      "in_range": true,
+      "low": 87.17
     },
     "AAVEUSD|1h": {
       "high": null,
@@ -5661,9 +5661,9 @@
       "low": null
     },
     "BNBUSD|15m": {
-      "high": 610.59,
-      "in_range": true,
-      "low": 607.58
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "BNBUSD|1h": {
       "high": 614.0,
