@@ -1716,7 +1716,7 @@
     "GALAUSD|15m": 1783995300,
     "GALAUSD|1h": 1783990800,
     "GALAUSD|5m": 1783996200,
-    "GIGGLEUSD|15m": 1787063400,
+    "GIGGLEUSD|15m": 1787064300,
     "GIGGLEUSD|1h": 1787061600,
     "GOOGLXUSD|15m": 1787062500,
     "GOOGLXUSD|1h": 1787058000,
@@ -1743,7 +1743,7 @@
     "JASMYUSD|5m": 1783968000,
     "JTOUSD|15m": 1786445100,
     "JTOUSD|1h": 1786442400,
-    "KAITOUSD|15m": 1787063400,
+    "KAITOUSD|15m": 1787064300,
     "KAITOUSD|1h": 1787061600,
     "KAITOUSD|5m": 1784202900,
     "KITEUSD|15m": 1786008600,
@@ -1921,8 +1921,8 @@
     "TACUSD|15m": 1785049200,
     "TACUSD|1h": 1785045600,
     "TACUSD|5m": 1784202900,
-    "TAOUSD|15m": 1787063400,
-    "TAOUSD|1h": 1787058000,
+    "TAOUSD|15m": 1787064300,
+    "TAOUSD|1h": 1787061600,
     "TLMUSD|15m": 1786031100,
     "TLMUSD|1h": 1786028400,
     "TOWNSUSD|15m": 1783917900,
@@ -4082,7 +4082,7 @@
       "formed": true,
       "high": 0.0579,
       "low": 0.0573,
-      "up_alerted": false
+      "up_alerted": true
     },
     "OPNUSD|newyork|2026-08-18": {
       "down_alerted": false,
@@ -5803,9 +5803,9 @@
       "low": 0.06576
     },
     "GIGGLEUSD|15m": {
-      "high": 33.44,
-      "in_range": true,
-      "low": 32.97
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "GOOGLXUSD|15m": {
       "high": null,
