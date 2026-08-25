@@ -910,7 +910,7 @@
     "MUBUSD|15m|fast|up": 1982646,
     "MUBUSD|15m|slow|down": 1982623,
     "MUBUSD|15m|slow|up": 1982646,
-    "MUBUSD|15m|up": 1986209,
+    "MUBUSD|15m|up": 1986299,
     "MUBUSD|1h|down": 496478,
     "MUBUSD|1h|fast|down": 495643,
     "MUBUSD|1h|fast|up": 495637,
@@ -1660,7 +1660,7 @@
     "1MBABYDOGEUSD|15m": 1783849500,
     "1MBABYDOGEUSD|1h": 1783846800,
     "1MBABYDOGEUSD|5m": 1783850700,
-    "AAPLXUSD|15m": 1787668200,
+    "AAPLXUSD|15m": 1787669100,
     "AAPLXUSD|1h": 1787666400,
     "AAPLXUSD|5m": 1784035500,
     "AAVEUSD|15m": 1787669100,
@@ -1782,7 +1782,7 @@
     "EDENUSD|5m": 1783922100,
     "EIGENUSD|15m": 1787574600,
     "EIGENUSD|1h": 1787569200,
-    "ENAUSD|15m": 1787668200,
+    "ENAUSD|15m": 1787669100,
     "ENAUSD|1h": 1787666400,
     "ENAUSD|5m": 1783879200,
     "ESPORTSUSD|15m": 1787184000,
@@ -1889,14 +1889,14 @@
     "MUBARAKUSD|15m": 1787499900,
     "MUBARAKUSD|1h": 1787497200,
     "MUBARAKUSD|5m": 1783999800,
-    "MUBUSD|15m": 1787668200,
-    "MUBUSD|1h": 1787662800,
+    "MUBUSD|15m": 1787669100,
+    "MUBUSD|1h": 1787666400,
     "MUBUSD|5m": 1784202900,
     "MUSD|15m": 1787376600,
     "MUSD|1h": 1787371200,
     "MUSD|5m": 1784202900,
-    "NBISBUSD|15m": 1787668200,
-    "NBISBUSD|1h": 1787662800,
+    "NBISBUSD|15m": 1787669100,
+    "NBISBUSD|1h": 1787666400,
     "NEARUSD|15m": 1786419900,
     "NEARUSD|1h": 1786417200,
     "NEIROUSD|15m": 1783849500,
@@ -1942,11 +1942,11 @@
     "PLTRBUSD|1h": 1786773600,
     "POLUSD|15m": 1787669100,
     "POLUSD|1h": 1787666400,
-    "PUMPUSD|15m": 1787668200,
-    "PUMPUSD|1h": 1787662800,
+    "PUMPUSD|15m": 1787669100,
+    "PUMPUSD|1h": 1787666400,
     "PUMPUSD|5m": 1784202900,
-    "QQQXUSD|15m": 1787668200,
-    "QQQXUSD|1h": 1787662800,
+    "QQQXUSD|15m": 1787669100,
+    "QQQXUSD|1h": 1787666400,
     "QQQXUSD|5m": 1784202900,
     "RAREUSD|15m": 1787049000,
     "RAREUSD|1h": 1787043600,
@@ -1956,8 +1956,8 @@
     "RAVEUSD|5m": 1784202900,
     "REDUSD|15m": 1787309100,
     "REDUSD|1h": 1787306400,
-    "RIVERUSD|15m": 1787668200,
-    "RIVERUSD|1h": 1787662800,
+    "RIVERUSD|15m": 1787669100,
+    "RIVERUSD|1h": 1787666400,
     "RIVERUSD|5m": 1784202900,
     "RKLBBUSD|15m": 1786541400,
     "RKLBBUSD|1h": 1786536000,
@@ -2002,8 +2002,8 @@
     "SOPHUSD|15m": 1783980000,
     "SOPHUSD|1h": 1783976400,
     "SOPHUSD|5m": 1783955100,
-    "SOXLBUSD|15m": 1787668200,
-    "SOXLBUSD|1h": 1787662800,
+    "SOXLBUSD|15m": 1787669100,
+    "SOXLBUSD|1h": 1787666400,
     "SOXLBUSD|5m": 1784202900,
     "SPCXXUSD|15m": 1787669100,
     "SPCXXUSD|1h": 1787666400,
@@ -2049,8 +2049,8 @@
     "VELVETUSD|15m": 1787669100,
     "VELVETUSD|1h": 1787666400,
     "VELVETUSD|5m": 1784202900,
-    "VIRTUALUSD|15m": 1787668200,
-    "VIRTUALUSD|1h": 1787662800,
+    "VIRTUALUSD|15m": 1787669100,
+    "VIRTUALUSD|1h": 1787666400,
     "VIRTUALUSD|5m": 1783871700,
     "VVVUSD|15m": 1787669100,
     "VVVUSD|1h": 1787666400,
@@ -3005,7 +3005,7 @@
       "formed": true,
       "high": 180.55,
       "low": 179.25,
-      "up_alerted": false
+      "up_alerted": true
     },
     "COINXUSD|london|2026-08-22": {
       "down_alerted": true,
@@ -3019,14 +3019,14 @@
       "formed": true,
       "high": 184.12,
       "low": 182.85,
-      "up_alerted": false
+      "up_alerted": true
     },
     "COINXUSD|newyork|2026-08-25": {
       "down_alerted": false,
       "formed": true,
       "high": 181.95,
       "low": 175.5,
-      "up_alerted": false
+      "up_alerted": true
     },
     "CRCLXUSD|asia|2026-08-22": {
       "down_alerted": true,
@@ -7040,9 +7040,9 @@
       "low": null
     },
     "NBISBUSD|15m": {
-      "high": 220.85,
-      "in_range": true,
-      "low": 217.75
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "NBISBUSD|1h": {
       "high": null,
@@ -7120,9 +7120,9 @@
       "low": null
     },
     "QQQXUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 713.24,
+      "in_range": true,
+      "low": 707.16
     },
     "QQQXUSD|1h": {
       "high": 712.9,
