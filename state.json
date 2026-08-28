@@ -382,7 +382,7 @@
     "BMTUSD|15m|down": 1986403,
     "BMTUSD|15m|up": 1986401,
     "BMTUSD|1h|down": 496634,
-    "BMTUSD|1h|up": 496404,
+    "BMTUSD|1h|up": 496636,
     "BNBUSD|15m|down": 1986211,
     "BNBUSD|15m|fast|down": 1982641,
     "BNBUSD|15m|fast|up": 1982655,
@@ -438,7 +438,7 @@
     "CHIPUSD|15m|down": 1986279,
     "CHIPUSD|15m|up": 1986531,
     "CHIPUSD|1h|down": 496634,
-    "CHIPUSD|1h|up": 496562,
+    "CHIPUSD|1h|up": 496636,
     "COAIUSD|15m|down": 1984858,
     "COAIUSD|15m|up": 1983740,
     "COAIUSD|1h|down": 496224,
@@ -517,7 +517,7 @@
     "ENAUSD|15m|slow|down": 1982087,
     "ENAUSD|15m|slow|up": 1982029,
     "ENAUSD|15m|up": 1986303,
-    "ENAUSD|1h|down": 496577,
+    "ENAUSD|1h|down": 496636,
     "ENAUSD|1h|fast|down": 495521,
     "ENAUSD|1h|fast|up": 495520,
     "ENAUSD|1h|slow|down": 495521,
@@ -799,7 +799,7 @@
     "LISTAUSD|1h|up": 495767,
     "LITEBUSD|15m|down": 1985912,
     "LITEBUSD|15m|up": 1985050,
-    "LITEBUSD|1h|down": 496478,
+    "LITEBUSD|1h|down": 496635,
     "LITEBUSD|1h|up": 496632,
     "LITUSD|15m|down": 1986527,
     "LITUSD|15m|fast|down": 1982365,
@@ -1471,7 +1471,7 @@
     "UNIUSD|15m|fast|up": 1982655,
     "UNIUSD|15m|slow|down": 1982654,
     "UNIUSD|15m|slow|up": 1982655,
-    "UNIUSD|15m|up": 1986383,
+    "UNIUSD|15m|up": 1986547,
     "UNIUSD|1h|down": 496595,
     "UNIUSD|1h|fast|down": 495628,
     "UNIUSD|1h|fast|up": 495662,
@@ -1665,17 +1665,17 @@
     "1MBABYDOGEUSD|15m": 1783849500,
     "1MBABYDOGEUSD|1h": 1783846800,
     "1MBABYDOGEUSD|5m": 1783850700,
-    "AAPLXUSD|15m": 1787886900,
-    "AAPLXUSD|1h": 1787882400,
+    "AAPLXUSD|15m": 1787891400,
+    "AAPLXUSD|1h": 1787886000,
     "AAPLXUSD|5m": 1784035500,
-    "AAVEUSD|15m": 1787888700,
-    "AAVEUSD|1h": 1787886000,
+    "AAVEUSD|15m": 1787892300,
+    "AAVEUSD|1h": 1787889600,
     "AAVEUSD|5m": 1784202600,
     "ACTUSD|15m": 1786446000,
     "ACTUSD|1h": 1786442400,
     "ACTUSD|5m": 1783864500,
-    "ADAUSD|15m": 1787887800,
-    "ADAUSD|1h": 1787882400,
+    "ADAUSD|15m": 1787891400,
+    "ADAUSD|1h": 1787886000,
     "ADAUSD|5m": 1784202900,
     "AIGENSYNUSD|15m": 1785043800,
     "AIGENSYNUSD|1h": 1785038400,
@@ -1689,8 +1689,8 @@
     "AIOUSD|15m": 1787833800,
     "AIOUSD|1h": 1787828400,
     "AIOUSD|5m": 1783999200,
-    "AKEUSD|15m": 1787888700,
-    "AKEUSD|1h": 1787886000,
+    "AKEUSD|15m": 1787892300,
+    "AKEUSD|1h": 1787889600,
     "ALLOUSD|15m": 1787198400,
     "ALLOUSD|1h": 1787194800,
     "ALLOUSD|5m": 1784202600,
@@ -1699,15 +1699,15 @@
     "ALTUSD|5m": 1783923600,
     "AMDBUSD|15m": 1787279400,
     "AMDBUSD|1h": 1787274000,
-    "AMZNXUSD|15m": 1787887800,
-    "AMZNXUSD|1h": 1787882400,
+    "AMZNXUSD|15m": 1787892300,
+    "AMZNXUSD|1h": 1787889600,
     "ARBUSD|15m": 1783962000,
     "ARBUSD|1h": 1783958400,
     "ARBUSD|5m": 1783962600,
     "ARCUSD|15m": 1786859100,
     "ARCUSD|1h": 1786856400,
     "ARCUSD|5m": 1784190000,
-    "ARIAUSD|15m": 1787888700,
+    "ARIAUSD|15m": 1787891400,
     "ARIAUSD|1h": 1787886000,
     "ARIAUSD|5m": 1783999500,
     "ARMBUSD|15m": 1786000500,
@@ -1715,8 +1715,8 @@
     "AVAAIUSD|15m": 1787471100,
     "AVAAIUSD|1h": 1787468400,
     "AVAAIUSD|5m": 1783998000,
-    "AVAXUSD|15m": 1787887800,
-    "AVAXUSD|1h": 1787882400,
+    "AVAXUSD|15m": 1787891400,
+    "AVAXUSD|1h": 1787886000,
     "AVAXUSD|5m": 1784202000,
     "BANKUSD|15m": 1786812300,
     "BANKUSD|1h": 1786809600,
@@ -1725,38 +1725,38 @@
     "BASEDUSD|5m": 1784202900,
     "BBUSD|15m": 1787397300,
     "BBUSD|1h": 1787392800,
-    "BCHUSD|15m": 1787887800,
-    "BCHUSD|1h": 1787882400,
+    "BCHUSD|15m": 1787891400,
+    "BCHUSD|1h": 1787886000,
     "BCHUSD|5m": 1784202600,
-    "BEATUSD|15m": 1787888700,
-    "BEATUSD|1h": 1787886000,
+    "BEATUSD|15m": 1787892300,
+    "BEATUSD|1h": 1787889600,
     "BEATUSD|5m": 1784202900,
     "BILLUSD|15m": 1785375900,
     "BILLUSD|1h": 1785373200,
     "BILLUSD|5m": 1784202900,
     "BIOUSD|15m": 1787309100,
     "BIOUSD|1h": 1787306400,
-    "BLESSUSD|15m": 1787888700,
-    "BLESSUSD|1h": 1787886000,
+    "BLESSUSD|15m": 1787892300,
+    "BLESSUSD|1h": 1787889600,
     "BLESSUSD|5m": 1783999200,
     "BLURUSD|15m": 1783998900,
     "BLURUSD|1h": 1783994400,
     "BLURUSD|5m": 1783999800,
-    "BMTUSD|15m": 1787888700,
-    "BMTUSD|1h": 1787886000,
-    "BNBUSD|15m": 1787887800,
-    "BNBUSD|1h": 1787882400,
+    "BMTUSD|15m": 1787892300,
+    "BMTUSD|1h": 1787889600,
+    "BNBUSD|15m": 1787892300,
+    "BNBUSD|1h": 1787889600,
     "BNBUSD|5m": 1784202900,
-    "BTCUSD|15m": 1787888700,
-    "BTCUSD|1h": 1787886000,
+    "BTCUSD|15m": 1787892300,
+    "BTCUSD|1h": 1787889600,
     "BTCUSD|5m": 1784202900,
     "BUSD|15m": 1786704300,
     "BUSD|1h": 1786701600,
     "BUSD|5m": 1784105700,
     "CBRSBUSD|15m": 1787832900,
     "CBRSBUSD|1h": 1787828400,
-    "CHIPUSD|15m": 1787887800,
-    "CHIPUSD|1h": 1787886000,
+    "CHIPUSD|15m": 1787892300,
+    "CHIPUSD|1h": 1787889600,
     "COAIUSD|15m": 1786432500,
     "COAIUSD|1h": 1786428000,
     "COINXUSD|15m": 1787704200,
@@ -1778,24 +1778,24 @@
     "DOGSUSD|15m": 1783998000,
     "DOGSUSD|1h": 1783994400,
     "DOGSUSD|5m": 1783998900,
-    "DOTUSD|15m": 1787887800,
-    "DOTUSD|1h": 1787882400,
+    "DOTUSD|15m": 1787892300,
+    "DOTUSD|1h": 1787889600,
     "DUSKUSD|15m": 1786986900,
     "DUSKUSD|1h": 1786982400,
-    "EDENUSD|15m": 1787888700,
-    "EDENUSD|1h": 1787886000,
+    "EDENUSD|15m": 1787891400,
+    "EDENUSD|1h": 1787889600,
     "EDENUSD|5m": 1783922100,
     "EIGENUSD|15m": 1787574600,
     "EIGENUSD|1h": 1787569200,
-    "ENAUSD|15m": 1787888700,
-    "ENAUSD|1h": 1787886000,
+    "ENAUSD|15m": 1787892300,
+    "ENAUSD|1h": 1787889600,
     "ENAUSD|5m": 1783879200,
     "ESPORTSUSD|15m": 1787184000,
     "ESPORTSUSD|1h": 1787180400,
     "ETHFIUSD|15m": 1786890600,
     "ETHFIUSD|1h": 1786888800,
-    "ETHUSD|15m": 1787888700,
-    "ETHUSD|1h": 1787886000,
+    "ETHUSD|15m": 1787892300,
+    "ETHUSD|1h": 1787889600,
     "ETHUSD|5m": 1784202900,
     "EVAAUSD|15m": 1787027400,
     "EVAAUSD|1h": 1787022000,
@@ -1819,15 +1819,15 @@
     "HANAUSD|15m": 1787767200,
     "HANAUSD|1h": 1787763600,
     "HANAUSD|5m": 1783933500,
-    "HUSD|15m": 1787887800,
-    "HUSD|1h": 1787886000,
+    "HUSD|15m": 1787892300,
+    "HUSD|1h": 1787889600,
     "HUSD|5m": 1784202900,
-    "HYPEUSD|15m": 1787887800,
-    "HYPEUSD|1h": 1787882400,
+    "HYPEUSD|15m": 1787891400,
+    "HYPEUSD|1h": 1787889600,
     "HYPEUSD|5m": 1784202600,
     "INJUSD|15m": 1787729400,
     "INJUSD|1h": 1787724000,
-    "INTCBUSD|15m": 1787888700,
+    "INTCBUSD|15m": 1787891400,
     "INTCBUSD|1h": 1787886000,
     "INUSD|15m": 1783998900,
     "INUSD|1h": 1783994400,
@@ -1854,25 +1854,25 @@
     "LIGHTUSD|15m": 1787829300,
     "LIGHTUSD|1h": 1787828400,
     "LIGHTUSD|5m": 1784094900,
-    "LINKUSD|15m": 1787887800,
-    "LINKUSD|1h": 1787882400,
+    "LINKUSD|15m": 1787892300,
+    "LINKUSD|1h": 1787889600,
     "LINKUSD|5m": 1784202900,
     "LISTAUSD|15m": 1784817900,
     "LISTAUSD|1h": 1784815200,
-    "LITEBUSD|15m": 1787887800,
-    "LITEBUSD|1h": 1787882400,
-    "LITUSD|15m": 1787888700,
-    "LITUSD|1h": 1787886000,
+    "LITEBUSD|15m": 1787891400,
+    "LITEBUSD|1h": 1787886000,
+    "LITUSD|15m": 1787891400,
+    "LITUSD|1h": 1787889600,
     "LITUSD|5m": 1784130900,
-    "LTCUSD|15m": 1787888700,
-    "LTCUSD|1h": 1787886000,
+    "LTCUSD|15m": 1787892300,
+    "LTCUSD|1h": 1787889600,
     "LTCUSD|5m": 1784202900,
     "MELANIAUSD|15m": 1787506200,
     "MELANIAUSD|1h": 1787500800,
     "MEMEUSD|15m": 1783849500,
     "MEMEUSD|1h": 1783846800,
     "MEMEUSD|5m": 1783850400,
-    "METAXUSD|15m": 1787888700,
+    "METAXUSD|15m": 1787889600,
     "METAXUSD|1h": 1787886000,
     "METAXUSD|5m": 1784202900,
     "MMTUSD|15m": 1786584600,
@@ -1887,21 +1887,21 @@
     "MOVEUSD|15m": 1787469300,
     "MOVEUSD|1h": 1787464800,
     "MOVEUSD|5m": 1783869000,
-    "MRVLBUSD|15m": 1787887800,
-    "MRVLBUSD|1h": 1787882400,
-    "MSTRBUSD|15m": 1787888700,
-    "MSTRBUSD|1h": 1787886000,
+    "MRVLBUSD|15m": 1787892300,
+    "MRVLBUSD|1h": 1787889600,
+    "MSTRBUSD|15m": 1787892300,
+    "MSTRBUSD|1h": 1787889600,
     "MUBARAKUSD|15m": 1787499900,
     "MUBARAKUSD|1h": 1787497200,
     "MUBARAKUSD|5m": 1783999800,
-    "MUBUSD|15m": 1787887800,
-    "MUBUSD|1h": 1787882400,
+    "MUBUSD|15m": 1787891400,
+    "MUBUSD|1h": 1787886000,
     "MUBUSD|5m": 1784202900,
     "MUSD|15m": 1787376600,
     "MUSD|1h": 1787371200,
     "MUSD|5m": 1784202900,
-    "NBISBUSD|15m": 1787887800,
-    "NBISBUSD|1h": 1787882400,
+    "NBISBUSD|15m": 1787892300,
+    "NBISBUSD|1h": 1787889600,
     "NEARUSD|15m": 1786419900,
     "NEARUSD|1h": 1786417200,
     "NEIROUSD|15m": 1783849500,
@@ -1910,7 +1910,7 @@
     "NOTUSD|15m": 1783998000,
     "NOTUSD|1h": 1783994400,
     "NOTUSD|5m": 1783998600,
-    "NVDAXUSD|15m": 1787887800,
+    "NVDAXUSD|15m": 1787891400,
     "NVDAXUSD|1h": 1787886000,
     "NVDAXUSD|5m": 1784142000,
     "ONDOUSD|15m": 1787404500,
@@ -1924,8 +1924,8 @@
     "PARTIUSD|15m": 1783998900,
     "PARTIUSD|1h": 1783994400,
     "PARTIUSD|5m": 1783999500,
-    "PAXGUSD|15m": 1787888700,
-    "PAXGUSD|1h": 1787886000,
+    "PAXGUSD|15m": 1787892300,
+    "PAXGUSD|1h": 1787889600,
     "PAXGUSD|5m": 1784202900,
     "PENDLEUSD|15m": 1787592600,
     "PENDLEUSD|1h": 1787587200,
@@ -1950,8 +1950,8 @@
     "PUMPUSD|15m": 1787887800,
     "PUMPUSD|1h": 1787882400,
     "PUMPUSD|5m": 1784202900,
-    "QQQXUSD|15m": 1787887800,
-    "QQQXUSD|1h": 1787882400,
+    "QQQXUSD|15m": 1787891400,
+    "QQQXUSD|1h": 1787886000,
     "QQQXUSD|5m": 1784202900,
     "RAREUSD|15m": 1787049000,
     "RAREUSD|1h": 1787043600,
@@ -1961,15 +1961,15 @@
     "RAVEUSD|5m": 1784202900,
     "REDUSD|15m": 1787309100,
     "REDUSD|1h": 1787306400,
-    "RIVERUSD|15m": 1787888700,
-    "RIVERUSD|1h": 1787886000,
+    "RIVERUSD|15m": 1787892300,
+    "RIVERUSD|1h": 1787889600,
     "RIVERUSD|5m": 1784202900,
     "RKLBBUSD|15m": 1786541400,
     "RKLBBUSD|1h": 1786536000,
     "RSRUSD|15m": 1783989000,
     "RSRUSD|1h": 1783983600,
     "RSRUSD|5m": 1783979100,
-    "RUNEUSD|15m": 1787888700,
+    "RUNEUSD|15m": 1787891400,
     "RUNEUSD|1h": 1787886000,
     "SAGAUSD|15m": 1786369500,
     "SAGAUSD|1h": 1786366800,
@@ -1988,17 +1988,17 @@
     "SKLUSD|15m": 1784256300,
     "SKLUSD|1h": 1784253600,
     "SKLUSD|5m": 1784202900,
-    "SKYAIUSD|15m": 1787888700,
-    "SKYAIUSD|1h": 1787886000,
+    "SKYAIUSD|15m": 1787892300,
+    "SKYAIUSD|1h": 1787889600,
     "SKYAIUSD|5m": 1783999800,
-    "SLVONUSD|15m": 1787888700,
-    "SLVONUSD|1h": 1787886000,
+    "SLVONUSD|15m": 1787891400,
+    "SLVONUSD|1h": 1787889600,
     "SLVONUSD|5m": 1784202900,
-    "SNDKBUSD|15m": 1787888700,
-    "SNDKBUSD|1h": 1787886000,
+    "SNDKBUSD|15m": 1787892300,
+    "SNDKBUSD|1h": 1787889600,
     "SNDKBUSD|5m": 1784202900,
-    "SOLUSD|15m": 1787888700,
-    "SOLUSD|1h": 1787886000,
+    "SOLUSD|15m": 1787892300,
+    "SOLUSD|1h": 1787889600,
     "SOLUSD|5m": 1784202900,
     "SOLVUSD|15m": 1787744700,
     "SOLVUSD|1h": 1787742000,
@@ -2009,11 +2009,11 @@
     "SOPHUSD|15m": 1783980000,
     "SOPHUSD|1h": 1783976400,
     "SOPHUSD|5m": 1783955100,
-    "SOXLBUSD|15m": 1787888700,
+    "SOXLBUSD|15m": 1787891400,
     "SOXLBUSD|1h": 1787886000,
     "SOXLBUSD|5m": 1784202900,
-    "SPCXXUSD|15m": 1787887800,
-    "SPCXXUSD|1h": 1787882400,
+    "SPCXXUSD|15m": 1787892300,
+    "SPCXXUSD|1h": 1787889600,
     "SPCXXUSD|5m": 1784202900,
     "SPYXUSD|15m": 1787376600,
     "SPYXUSD|1h": 1787371200,
@@ -2027,11 +2027,11 @@
     "SWARMSUSD|15m": 1783986300,
     "SWARMSUSD|1h": 1783983600,
     "SWARMSUSD|5m": 1783987200,
-    "TACUSD|15m": 1787888700,
-    "TACUSD|1h": 1787886000,
+    "TACUSD|15m": 1787892300,
+    "TACUSD|1h": 1787889600,
     "TACUSD|5m": 1784202900,
-    "TAOUSD|15m": 1787888700,
-    "TAOUSD|1h": 1787886000,
+    "TAOUSD|15m": 1787892300,
+    "TAOUSD|1h": 1787889600,
     "TLMUSD|15m": 1786031100,
     "TLMUSD|1h": 1786028400,
     "TOWNSUSD|15m": 1783917900,
@@ -2039,28 +2039,28 @@
     "TOWNSUSD|5m": 1783913100,
     "TRBUSD|15m": 1787459400,
     "TRBUSD|1h": 1787454000,
-    "TRUMPUSD|15m": 1787888700,
-    "TRUMPUSD|1h": 1787886000,
-    "TSLAXUSD|15m": 1787887800,
-    "TSLAXUSD|1h": 1787882400,
+    "TRUMPUSD|15m": 1787892300,
+    "TRUMPUSD|1h": 1787889600,
+    "TSLAXUSD|15m": 1787891400,
+    "TSLAXUSD|1h": 1787886000,
     "TSLAXUSD|5m": 1784202600,
     "TSTUSD|15m": 1787067000,
     "TSTUSD|1h": 1787061600,
     "TSTUSD|5m": 1783966800,
-    "UNIUSD|15m": 1787888700,
-    "UNIUSD|1h": 1787886000,
+    "UNIUSD|15m": 1787892300,
+    "UNIUSD|1h": 1787889600,
     "UNIUSD|5m": 1784202900,
     "USUALUSD|15m": 1783996200,
     "USUALUSD|1h": 1783990800,
     "USUALUSD|5m": 1783996800,
-    "VELVETUSD|15m": 1787888700,
-    "VELVETUSD|1h": 1787886000,
+    "VELVETUSD|15m": 1787892300,
+    "VELVETUSD|1h": 1787889600,
     "VELVETUSD|5m": 1784202900,
     "VIRTUALUSD|15m": 1787723100,
     "VIRTUALUSD|1h": 1787720400,
     "VIRTUALUSD|5m": 1783871700,
-    "VVVUSD|15m": 1787887800,
-    "VVVUSD|1h": 1787882400,
+    "VVVUSD|15m": 1787891400,
+    "VVVUSD|1h": 1787886000,
     "VVVUSD|5m": 1784096400,
     "WDCBUSD|15m": 1786718700,
     "WDCBUSD|1h": 1786716000,
@@ -2074,17 +2074,17 @@
     "XANUSD|15m": 1786448700,
     "XANUSD|1h": 1786446000,
     "XANUSD|5m": 1783999200,
-    "XAUTUSD|15m": 1787888700,
-    "XAUTUSD|1h": 1787886000,
+    "XAUTUSD|15m": 1787892300,
+    "XAUTUSD|1h": 1787889600,
     "XAUTUSD|5m": 1784202900,
     "XLMUSD|15m": 1783756800,
     "XLMUSD|1h": 1783753200,
     "XLMUSD|5m": 1783757700,
-    "XRPUSD|15m": 1787888700,
-    "XRPUSD|1h": 1787886000,
+    "XRPUSD|15m": 1787892300,
+    "XRPUSD|1h": 1787889600,
     "XRPUSD|5m": 1784202900,
-    "ZECUSD|15m": 1787888700,
-    "ZECUSD|1h": 1787886000,
+    "ZECUSD|15m": 1787892300,
+    "ZECUSD|1h": 1787889600,
     "ZECUSD|5m": 1784202900,
     "ZKUSD|15m": 1783996200,
     "ZKUSD|1h": 1783990800,
@@ -2095,7 +2095,7 @@
     "ZROUSD|15m": 1787790600,
     "ZROUSD|1h": 1787788800
   },
-  "last_summary_sent": 1787886184,
+  "last_summary_sent": 1787893347,
   "orb_ranges": {
     "AAPLXUSD|asia|2026-08-25": {
       "down_alerted": true,
@@ -2354,7 +2354,7 @@
       "formed": true,
       "high": 0.0364,
       "low": 0.0355,
-      "up_alerted": false
+      "up_alerted": true
     },
     "ARIAUSD|london|2026-08-26": {
       "down_alerted": false,
@@ -2868,7 +2868,7 @@
       "up_alerted": true
     },
     "DOTUSD|asia|2026-08-28": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 0.881,
       "low": 0.878,
@@ -3820,7 +3820,7 @@
       "up_alerted": true
     },
     "NBISBUSD|asia|2026-08-28": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 215.6,
       "low": 214.6,
@@ -4415,7 +4415,7 @@
       "up_alerted": true
     },
     "SNDKBUSD|asia|2026-08-28": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 1470.02,
       "low": 1456.34,
@@ -5428,9 +5428,9 @@
       "low": 313.9
     },
     "AAVEUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 126.97,
+      "in_range": true,
+      "low": 125.31
     },
     "AAVEUSD|1h": {
       "high": null,
@@ -5483,9 +5483,9 @@
       "low": null
     },
     "AMZNXUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 257.3,
+      "in_range": true,
+      "low": 256.9
     },
     "AMZNXUSD|1h": {
       "high": 258.0,
@@ -5508,9 +5508,9 @@
       "low": 269.53
     },
     "AVAXUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 7.48,
+      "in_range": true,
+      "low": 7.406
     },
     "AVAXUSD|1h": {
       "high": null,
@@ -5533,9 +5533,9 @@
       "low": null
     },
     "BCHUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 266.22,
+      "in_range": true,
+      "low": 263.5
     },
     "BCHUSD|1h": {
       "high": null,
@@ -5563,9 +5563,9 @@
       "low": null
     },
     "BNBUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 710.84,
+      "in_range": true,
+      "low": 706.28
     },
     "BNBUSD|1h": {
       "high": 713.87,
@@ -5573,14 +5573,14 @@
       "low": 705.73
     },
     "BTCUSD|15m": {
+      "high": 80133.5,
+      "in_range": true,
+      "low": 79576.0
+    },
+    "BTCUSD|1h": {
       "high": null,
       "in_range": false,
       "low": null
-    },
-    "BTCUSD|1h": {
-      "high": 80838.5,
-      "in_range": true,
-      "low": 79714.5
     },
     "BUSD|15m": {
       "high": null,
@@ -5638,9 +5638,9 @@
       "low": null
     },
     "DOTUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 0.873,
+      "in_range": true,
+      "low": 0.863
     },
     "DUSKUSD|15m": {
       "high": null,
@@ -5668,9 +5668,9 @@
       "low": null
     },
     "ETHUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 2498.8,
+      "in_range": true,
+      "low": 2475.4
     },
     "ETHUSD|1h": {
       "high": 2514.6,
@@ -5718,9 +5718,9 @@
       "low": null
     },
     "HYPEUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 83.83,
+      "in_range": true,
+      "low": 82.88
     },
     "HYPEUSD|1h": {
       "high": null,
@@ -5733,9 +5733,9 @@
       "low": 5.498
     },
     "INTCBUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 91.53,
+      "in_range": true,
+      "low": 90.73
     },
     "INTCBUSD|1h": {
       "high": null,
@@ -5768,9 +5768,9 @@
       "low": null
     },
     "LINKUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 11.778,
+      "in_range": true,
+      "low": 11.657
     },
     "LINKUSD|1h": {
       "high": null,
@@ -5793,9 +5793,9 @@
       "low": null
     },
     "LTCUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 49.5,
+      "in_range": true,
+      "low": 49.0
     },
     "LTCUSD|1h": {
       "high": null,
@@ -5828,14 +5828,14 @@
       "low": null
     },
     "MSTRBUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 139.85,
+      "in_range": true,
+      "low": 137.85
     },
     "MUBUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 925.5,
+      "in_range": true,
+      "low": 919.2
     },
     "MUBUSD|1h": {
       "high": null,
@@ -5853,9 +5853,9 @@
       "low": null
     },
     "NBISBUSD|15m": {
-      "high": 216.5,
-      "in_range": true,
-      "low": 215.0
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "NBISBUSD|1h": {
       "high": null,
@@ -6003,9 +6003,9 @@
       "low": null
     },
     "SNDKBUSD|15m": {
-      "high": 1467.1,
-      "in_range": true,
-      "low": 1456.23
+      "high": null,
+      "in_range": false,
+      "low": null
     },
     "SNDKBUSD|1h": {
       "high": null,
@@ -6088,9 +6088,9 @@
       "low": null
     },
     "TSLAXUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 356.0,
+      "in_range": true,
+      "low": 355.15
     },
     "TSLAXUSD|1h": {
       "high": 356.45,
@@ -6118,9 +6118,9 @@
       "low": null
     },
     "VVVUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 17.793,
+      "in_range": true,
+      "low": 17.555
     },
     "WDCBUSD|15m": {
       "high": null,
@@ -6153,9 +6153,9 @@
       "low": 4567.62
     },
     "XRPUSD|15m": {
-      "high": null,
-      "in_range": false,
-      "low": null
+      "high": 1.4372,
+      "in_range": true,
+      "low": 1.4205
     },
     "XRPUSD|1h": {
       "high": null,
