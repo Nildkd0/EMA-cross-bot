@@ -2223,8 +2223,8 @@
     "USUALUSD|15m": 1783996200,
     "USUALUSD|1h": 1783990800,
     "USUALUSD|5m": 1783996800,
-    "VELVETUSD|15m": 1789278300,
-    "VELVETUSD|1h": 1789275600,
+    "VELVETUSD|15m": 1789645500,
+    "VELVETUSD|1h": 1789642800,
     "VELVETUSD|5m": 1784202900,
     "VIRTUALUSD|15m": 1787723100,
     "VIRTUALUSD|1h": 1787720400,
@@ -3615,14 +3615,14 @@
       "formed": true,
       "high": 0.04648,
       "low": 0.04632,
-      "up_alerted": false
+      "up_alerted": true
     },
     "EDENUSD|london|2026-09-17": {
       "down_alerted": false,
       "formed": true,
       "high": 0.04876,
       "low": 0.04843,
-      "up_alerted": false
+      "up_alerted": true
     },
     "ETHFIUSD|asia|2026-09-14": {
       "down_alerted": false,
@@ -5926,6 +5926,13 @@
       "high": 6.297,
       "low": 6.2151,
       "up_alerted": true
+    },
+    "VELVETUSD|london|2026-09-17": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.0535,
+      "low": 0.053,
+      "up_alerted": false
     },
     "VVVUSD|asia|2026-09-14": {
       "down_alerted": false,
