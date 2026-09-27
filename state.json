@@ -2319,7 +2319,7 @@
     "ZROUSD|15m": 1790333100,
     "ZROUSD|1h": 1790330400
   },
-  "last_summary_sent": 1790521418,
+  "last_summary_sent": 1790525120,
   "orb_ranges": {
     "AAPLXUSD|asia|2026-09-24": {
       "down_alerted": true,
@@ -5294,7 +5294,7 @@
       "formed": true,
       "high": 0.004586,
       "low": 0.004467,
-      "up_alerted": false
+      "up_alerted": true
     },
     "QQQXUSD|asia|2026-09-24": {
       "down_alerted": true,
