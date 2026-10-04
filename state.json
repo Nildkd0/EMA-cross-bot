@@ -1976,6 +1976,8 @@
     "BTCUSD|15m": 1791078300,
     "BTCUSD|1h": 1791075600,
     "BTCUSD|5m": 1784202900,
+    "BTWUSD|15m": 1791078300,
+    "BTWUSD|1h": 1791075600,
     "BUSD|15m": 1789890300,
     "BUSD|1h": 1789887600,
     "BUSD|5m": 1784105700,
@@ -2381,7 +2383,7 @@
     "ZROUSD|15m": 1791078300,
     "ZROUSD|1h": 1791075600
   },
-  "last_summary_sent": 1791075790,
+  "last_summary_sent": 1791079507,
   "orb_ranges": {
     "AAPLXUSD|asia|2026-10-01": {
       "down_alerted": true,
@@ -3089,6 +3091,13 @@
       "high": 84930.5,
       "low": 84727.0,
       "up_alerted": true
+    },
+    "BTWUSD|asia|2026-10-04": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 1.0431,
+      "low": 0.9293,
+      "up_alerted": false
     },
     "CBRSBUSD|asia|2026-10-01": {
       "down_alerted": true,
