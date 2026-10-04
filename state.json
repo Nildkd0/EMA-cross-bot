@@ -3979,7 +3979,7 @@
       "formed": true,
       "high": 0.016758,
       "low": 0.016758,
-      "up_alerted": false
+      "up_alerted": true
     },
     "GRIFFAINUSD|london|2026-10-04": {
       "down_alerted": false,
@@ -3989,7 +3989,7 @@
       "up_alerted": false
     },
     "GRIFFAINUSD|newyork|2026-10-04": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 0.018154,
       "low": 0.017717,
