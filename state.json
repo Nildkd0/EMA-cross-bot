@@ -2394,7 +2394,7 @@
     "ZROUSD|15m": 1791200700,
     "ZROUSD|1h": 1791198000
   },
-  "last_summary_sent": 1791198176,
+  "last_summary_sent": 1791202380,
   "orb_ranges": {
     "AAVEUSD|asia|2026-10-02": {
       "down_alerted": false,
@@ -5309,7 +5309,7 @@
       "up_alerted": false
     },
     "SNDKBUSD|asia|2026-10-05": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 1736.93,
       "low": 1727.38,
@@ -5330,7 +5330,7 @@
       "up_alerted": true
     },
     "SNDKBUSD|london|2026-10-05": {
-      "down_alerted": false,
+      "down_alerted": true,
       "formed": true,
       "high": 1736.49,
       "low": 1727.45,
