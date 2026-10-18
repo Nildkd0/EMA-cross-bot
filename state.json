@@ -2355,8 +2355,8 @@
     "SPCXXUSD|5m": 1784202900,
     "SPYXUSD|15m": 1792208700,
     "SPYXUSD|1h": 1792206000,
-    "STBLUSD|15m": 1792280700,
-    "STBLUSD|1h": 1792278000,
+    "STBLUSD|15m": 1792298700,
+    "STBLUSD|1h": 1792296000,
     "STBLUSD|5m": 1783792800,
     "STRKUSD|15m": 1792298700,
     "STRKUSD|1h": 1792296000,
@@ -3403,6 +3403,13 @@
       "formed": true,
       "high": 0.02557,
       "low": 0.02432,
+      "up_alerted": false
+    },
+    "STBLUSD|asia|2026-10-18": {
+      "down_alerted": false,
+      "formed": true,
+      "high": 0.02371,
+      "low": 0.02343,
       "up_alerted": false
     },
     "STRKUSD|asia|2026-10-16": {
